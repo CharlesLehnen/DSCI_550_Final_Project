@@ -1,0 +1,4 @@
+data/blattodea_ca_gbif_simple.csv filter=lfs diff=lfs merge=lfs -text
+data/carabidae_ca_gbif_simple.csv filter=lfs diff=lfs merge=lfs -text
+data/odonata_ca_gbif_simple.csv filter=lfs diff=lfs merge=lfs -text
+data/orthoptera_ca_gbif_simple.csv filter=lfs diff=lfs merge=lfs -text
