@@ -1,0 +1,2437 @@
+State,County,Year,tmax,tmin,prcp_monttl
+California,Alameda,1981,,21.91,
+California,Alpine,1981,,-3.91,
+California,Amador,1981,,,15.53
+California,Butte,1981,29.61,,
+California,Calaveras,1981,,,18.55
+California,Colusa,1981,,,5.29
+California,Contra Costa,1981,,10.36,
+California,Del Norte,1981,,,11.83
+California,El Dorado,1981,,,8.64
+California,Fresno,1981,,22.42,
+California,Glenn,1981,19.3,,
+California,Humboldt,1981,35.65,,
+California,Imperial,1981,,23.48,
+California,Inyo,1981,,,1.98
+California,Kern,1981,,6.44,
+California,Kings,1981,,,15.52
+California,Lake,1981,,,18.0
+California,Lassen,1981,,,19.36
+California,Los Angeles,1981,,-0.23,
+California,Madera,1981,,,17.87
+California,Marin,1981,,6.17,
+California,Mariposa,1981,,,15.34
+California,Mendocino,1981,,,19.15
+California,Merced,1981,38.67,,
+California,Modoc,1981,,,8.11
+California,Mono,1981,,10.06,
+California,Monterey,1981,,13.1,
+California,Napa,1981,,,1.89
+California,Nevada,1981,,,10.04
+California,Orange,1981,,10.12,
+California,Placer,1981,,-3.52,
+California,Plumas,1981,,,12.29
+California,Riverside,1981,12.03,,
+California,Sacramento,1981,19.15,,
+California,San Benito,1981,,,14.61
+California,San Bernardino,1981,17.93,,
+California,San Diego,1981,,,8.27
+California,San Francisco,1981,,,17.52
+California,San Joaquin,1981,30.67,,
+California,San Luis Obispo,1981,34.18,,
+California,San Mateo,1981,33.16,,
+California,Santa Barbara,1981,23.48,,
+California,Santa Clara,1981,,16.69,
+California,Santa Cruz,1981,,20.57,
+California,Shasta,1981,,,6.87
+California,Sierra,1981,,-3.89,
+California,Siskiyou,1981,,,5.75
+California,Solano,1981,29.55,,
+California,Sonoma,1981,,,9.96
+California,Stanislaus,1981,,,10.5
+California,Sutter,1981,,9.29,
+California,Tehama,1981,,3.07,
+California,Trinity,1981,,15.58,
+California,Tulare,1981,21.52,,
+California,Tuolumne,1981,,,19.31
+California,Ventura,1981,,21.89,
+California,Yolo,1981,,,1.04
+California,Yuba,1981,,,18.98
+California,Alameda,1982,28.74,,
+California,Alpine,1982,27.72,,
+California,Amador,1982,,,11.44
+California,Butte,1982,40.4,,
+California,Calaveras,1982,,20.29,
+California,Colusa,1982,,,15.7
+California,Contra Costa,1982,28.09,,
+California,Del Norte,1982,,6.76,
+California,El Dorado,1982,,,10.68
+California,Fresno,1982,16.83,,
+California,Glenn,1982,,16.38,
+California,Humboldt,1982,,,10.73
+California,Imperial,1982,,11.02,
+California,Inyo,1982,,,7.71
+California,Kern,1982,,2.46,
+California,Kings,1982,,19.84,
+California,Lake,1982,,,2.73
+California,Lassen,1982,,2.86,
+California,Los Angeles,1982,,,19.32
+California,Madera,1982,32.01,,
+California,Marin,1982,,13.36,
+California,Mariposa,1982,19.42,,
+California,Mendocino,1982,,,16.92
+California,Merced,1982,,,0.06
+California,Modoc,1982,,,15.34
+California,Mono,1982,,,8.03
+California,Monterey,1982,43.19,,
+California,Napa,1982,,,16.23
+California,Nevada,1982,37.54,,
+California,Orange,1982,21.98,,
+California,Placer,1982,,-2.42,
+California,Plumas,1982,,,3.92
+California,Riverside,1982,,-4.03,
+California,Sacramento,1982,,,13.77
+California,San Benito,1982,,2.71,
+California,San Bernardino,1982,,16.01,
+California,San Diego,1982,19.26,,
+California,San Francisco,1982,21.45,,
+California,San Joaquin,1982,,13.07,
+California,San Luis Obispo,1982,,8.17,
+California,San Mateo,1982,16.29,,
+California,Santa Barbara,1982,,,13.7
+California,Santa Clara,1982,,,10.9
+California,Santa Cruz,1982,,,1.33
+California,Shasta,1982,14.01,,
+California,Sierra,1982,,,15.06
+California,Siskiyou,1982,,4.15,
+California,Solano,1982,,18.86,
+California,Sonoma,1982,,,14.25
+California,Stanislaus,1982,,19.02,
+California,Sutter,1982,,9.29,
+California,Tehama,1982,,,9.26
+California,Trinity,1982,,,1.07
+California,Tulare,1982,,,12.04
+California,Tuolumne,1982,,,9.13
+California,Ventura,1982,,,10.5
+California,Yolo,1982,,,19.12
+California,Yuba,1982,,,17.82
+California,Alameda,1983,,4.88,
+California,Alpine,1983,,,16.49
+California,Amador,1983,,,11.66
+California,Butte,1983,,7.33,
+California,Calaveras,1983,,,15.48
+California,Colusa,1983,,,19.25
+California,Contra Costa,1983,,-3.87,
+California,Del Norte,1983,,2.27,
+California,El Dorado,1983,,,16.62
+California,Fresno,1983,,,17.43
+California,Glenn,1983,,-2.25,
+California,Humboldt,1983,,3.76,
+California,Imperial,1983,,-1.3,
+California,Inyo,1983,,,18.18
+California,Kern,1983,,,1.31
+California,Kings,1983,,,18.09
+California,Lake,1983,,,7.18
+California,Lassen,1983,,,9.0
+California,Los Angeles,1983,,,5.38
+California,Madera,1983,,19.97,
+California,Marin,1983,26.54,,
+California,Mariposa,1983,,,5.31
+California,Mendocino,1983,25.04,,
+California,Merced,1983,14.6,,
+California,Modoc,1983,,-4.26,
+California,Mono,1983,,,8.84
+California,Monterey,1983,,,12.47
+California,Napa,1983,25.49,,
+California,Nevada,1983,,,16.71
+California,Orange,1983,,-1.0,
+California,Placer,1983,,,18.53
+California,Plumas,1983,,2.67,
+California,Riverside,1983,41.01,,
+California,Sacramento,1983,18.11,,
+California,San Benito,1983,26.23,,
+California,San Bernardino,1983,,,18.6
+California,San Diego,1983,,-0.88,
+California,San Francisco,1983,12.12,,
+California,San Joaquin,1983,,,7.08
+California,San Luis Obispo,1983,36.95,,
+California,San Mateo,1983,,,7.43
+California,Santa Barbara,1983,,11.2,
+California,Santa Clara,1983,,,15.64
+California,Santa Cruz,1983,,16.43,
+California,Shasta,1983,25.02,,
+California,Sierra,1983,39.96,,
+California,Siskiyou,1983,,5.47,
+California,Solano,1983,,,8.13
+California,Sonoma,1983,42.21,,
+California,Stanislaus,1983,,-4.11,
+California,Sutter,1983,,-1.77,
+California,Tehama,1983,20.08,,
+California,Trinity,1983,,,1.93
+California,Tulare,1983,32.39,,
+California,Tuolumne,1983,,-2.82,
+California,Ventura,1983,,,18.9
+California,Yolo,1983,,,12.22
+California,Yuba,1983,12.56,,
+California,Alameda,1984,,,8.68
+California,Alpine,1984,,,1.1
+California,Amador,1984,42.89,,
+California,Butte,1984,11.33,,
+California,Calaveras,1984,27.54,,
+California,Colusa,1984,,6.05,
+California,Contra Costa,1984,,15.66,
+California,Del Norte,1984,,,17.91
+California,El Dorado,1984,29.39,,
+California,Fresno,1984,,,19.32
+California,Glenn,1984,,4.86,
+California,Humboldt,1984,,12.4,
+California,Imperial,1984,,,9.95
+California,Inyo,1984,19.61,,
+California,Kern,1984,,15.64,
+California,Kings,1984,42.65,,
+California,Lake,1984,,12.82,
+California,Lassen,1984,,2.45,
+California,Los Angeles,1984,,7.66,
+California,Madera,1984,,2.37,
+California,Marin,1984,28.77,,
+California,Mariposa,1984,25.72,,
+California,Mendocino,1984,,11.24,
+California,Merced,1984,,11.97,
+California,Modoc,1984,,,19.29
+California,Mono,1984,,,16.25
+California,Monterey,1984,16.41,,
+California,Napa,1984,,13.75,
+California,Nevada,1984,,6.41,
+California,Orange,1984,,,17.76
+California,Placer,1984,,8.59,
+California,Plumas,1984,,,4.06
+California,Riverside,1984,36.67,,
+California,Sacramento,1984,,,7.06
+California,San Benito,1984,,-0.22,
+California,San Bernardino,1984,43.02,,
+California,San Diego,1984,,20.11,
+California,San Francisco,1984,,,8.09
+California,San Joaquin,1984,,,1.31
+California,San Luis Obispo,1984,,,4.93
+California,San Mateo,1984,,,18.74
+California,Santa Barbara,1984,28.74,,
+California,Santa Clara,1984,28.57,,
+California,Santa Cruz,1984,,,3.41
+California,Shasta,1984,,,3.89
+California,Sierra,1984,36.8,,
+California,Siskiyou,1984,,,12.37
+California,Solano,1984,,15.18,
+California,Sonoma,1984,,,4.95
+California,Stanislaus,1984,,9.29,
+California,Sutter,1984,,,5.19
+California,Tehama,1984,,,5.74
+California,Trinity,1984,,,4.52
+California,Tulare,1984,23.8,,
+California,Tuolumne,1984,25.75,,
+California,Ventura,1984,,14.26,
+California,Yolo,1984,11.98,,
+California,Yuba,1984,30.26,,
+California,Alameda,1985,32.65,,
+California,Alpine,1985,20.36,,
+California,Amador,1985,,7.45,
+California,Butte,1985,,,19.0
+California,Calaveras,1985,,1.13,
+California,Colusa,1985,29.31,,
+California,Contra Costa,1985,22.0,,
+California,Del Norte,1985,,,19.66
+California,El Dorado,1985,,,15.56
+California,Fresno,1985,33.2,,
+California,Glenn,1985,25.19,,
+California,Humboldt,1985,29.57,,
+California,Imperial,1985,31.67,,
+California,Inyo,1985,,16.04,
+California,Kern,1985,30.69,,
+California,Kings,1985,29.77,,
+California,Lake,1985,,14.09,
+California,Lassen,1985,,17.86,
+California,Los Angeles,1985,39.01,,
+California,Madera,1985,11.88,,
+California,Marin,1985,,,1.8
+California,Mariposa,1985,,,14.53
+California,Mendocino,1985,,,11.55
+California,Merced,1985,18.29,,
+California,Modoc,1985,,3.77,
+California,Mono,1985,,,6.03
+California,Monterey,1985,,,4.06
+California,Napa,1985,40.22,,
+California,Nevada,1985,,,15.15
+California,Orange,1985,,,19.41
+California,Placer,1985,,14.67,
+California,Plumas,1985,,3.76,
+California,Riverside,1985,,,19.73
+California,Sacramento,1985,22.49,,
+California,San Benito,1985,,6.45,
+California,San Bernardino,1985,,,9.19
+California,San Diego,1985,,-0.61,
+California,San Francisco,1985,33.45,,
+California,San Joaquin,1985,43.91,,
+California,San Luis Obispo,1985,41.5,,
+California,San Mateo,1985,18.63,,
+California,Santa Barbara,1985,29.34,,
+California,Santa Clara,1985,14.56,,
+California,Santa Cruz,1985,,11.92,
+California,Shasta,1985,13.18,,
+California,Sierra,1985,31.15,,
+California,Siskiyou,1985,,8.97,
+California,Solano,1985,13.28,,
+California,Sonoma,1985,,17.07,
+California,Stanislaus,1985,,11.54,
+California,Sutter,1985,27.15,,
+California,Tehama,1985,,9.66,
+California,Trinity,1985,,,5.37
+California,Tulare,1985,,,13.67
+California,Tuolumne,1985,,16.82,
+California,Ventura,1985,26.56,,
+California,Yolo,1985,,7.17,
+California,Yuba,1985,34.25,,
+California,Alameda,1986,10.89,,
+California,Alpine,1986,24.2,,
+California,Amador,1986,,,17.46
+California,Butte,1986,,,12.66
+California,Calaveras,1986,15.39,,
+California,Colusa,1986,,14.73,
+California,Contra Costa,1986,,,5.92
+California,Del Norte,1986,,5.83,
+California,El Dorado,1986,44.69,,
+California,Fresno,1986,,,5.68
+California,Glenn,1986,,2.08,
+California,Humboldt,1986,,,9.03
+California,Imperial,1986,,,14.06
+California,Inyo,1986,,,12.83
+California,Kern,1986,,,9.05
+California,Kings,1986,,,16.22
+California,Lake,1986,,,13.12
+California,Lassen,1986,,8.29,
+California,Los Angeles,1986,,,0.41
+California,Madera,1986,,-0.8,
+California,Marin,1986,14.1,,
+California,Mariposa,1986,25.19,,
+California,Mendocino,1986,,,3.03
+California,Merced,1986,35.08,,
+California,Modoc,1986,34.83,,
+California,Mono,1986,,,3.59
+California,Monterey,1986,,,15.25
+California,Napa,1986,,,4.93
+California,Nevada,1986,,,9.66
+California,Orange,1986,,1.09,
+California,Placer,1986,,,6.78
+California,Plumas,1986,,15.19,
+California,Riverside,1986,,11.85,
+California,Sacramento,1986,,-3.87,
+California,San Benito,1986,44.26,,
+California,San Bernardino,1986,,,19.99
+California,San Diego,1986,,,17.71
+California,San Francisco,1986,,,16.72
+California,San Joaquin,1986,,20.67,
+California,San Luis Obispo,1986,,,9.24
+California,San Mateo,1986,,,13.58
+California,Santa Barbara,1986,37.1,,
+California,Santa Clara,1986,,,1.71
+California,Santa Cruz,1986,,,3.65
+California,Shasta,1986,,3.45,
+California,Sierra,1986,30.58,,
+California,Siskiyou,1986,24.38,,
+California,Solano,1986,18.51,,
+California,Sonoma,1986,,,7.68
+California,Stanislaus,1986,,,12.46
+California,Sutter,1986,,23.98,
+California,Tehama,1986,,23.03,
+California,Trinity,1986,,6.48,
+California,Tulare,1986,27.33,,
+California,Tuolumne,1986,,,15.31
+California,Ventura,1986,,,19.89
+California,Yolo,1986,,17.85,
+California,Yuba,1986,,9.91,
+California,Alameda,1987,,,13.6
+California,Alpine,1987,,21.54,
+California,Amador,1987,,,3.6
+California,Butte,1987,,13.28,
+California,Calaveras,1987,44.4,,
+California,Colusa,1987,,18.72,
+California,Contra Costa,1987,,,0.43
+California,Del Norte,1987,,,18.77
+California,El Dorado,1987,,18.06,
+California,Fresno,1987,,-2.79,
+California,Glenn,1987,,-4.15,
+California,Humboldt,1987,,22.92,
+California,Imperial,1987,11.05,,
+California,Inyo,1987,,-1.68,
+California,Kern,1987,,,4.81
+California,Kings,1987,,,8.64
+California,Lake,1987,,,8.14
+California,Lassen,1987,,,14.58
+California,Los Angeles,1987,18.03,,
+California,Madera,1987,,-3.02,
+California,Marin,1987,39.78,,
+California,Mariposa,1987,41.57,,
+California,Mendocino,1987,,,3.21
+California,Merced,1987,,,16.04
+California,Modoc,1987,,14.34,
+California,Mono,1987,31.37,,
+California,Monterey,1987,,,1.38
+California,Napa,1987,,21.95,
+California,Nevada,1987,37.79,,
+California,Orange,1987,,7.61,
+California,Placer,1987,,17.61,
+California,Plumas,1987,,21.45,
+California,Riverside,1987,31.97,,
+California,Sacramento,1987,,-0.94,
+California,San Benito,1987,23.67,,
+California,San Bernardino,1987,,,18.25
+California,San Diego,1987,,3.74,
+California,San Francisco,1987,,21.41,
+California,San Joaquin,1987,,1.14,
+California,San Luis Obispo,1987,,24.43,
+California,San Mateo,1987,28.55,,
+California,Santa Barbara,1987,,,10.42
+California,Santa Clara,1987,10.61,,
+California,Santa Cruz,1987,36.25,,
+California,Shasta,1987,32.8,,
+California,Sierra,1987,,-2.49,
+California,Siskiyou,1987,28.7,,
+California,Solano,1987,22.92,,
+California,Sonoma,1987,,,19.78
+California,Stanislaus,1987,,9.96,
+California,Sutter,1987,,,6.65
+California,Tehama,1987,29.99,,
+California,Trinity,1987,,,19.77
+California,Tulare,1987,12.4,,
+California,Tuolumne,1987,,23.32,
+California,Ventura,1987,14.72,,
+California,Yolo,1987,,9.57,
+California,Yuba,1987,,,17.13
+California,Alameda,1988,,,8.83
+California,Alpine,1988,29.1,,
+California,Amador,1988,44.51,,
+California,Butte,1988,43.66,,
+California,Calaveras,1988,,3.56,
+California,Colusa,1988,30.76,,
+California,Contra Costa,1988,,19.1,
+California,Del Norte,1988,,,4.33
+California,El Dorado,1988,15.51,,
+California,Fresno,1988,29.54,,
+California,Glenn,1988,,,8.6
+California,Humboldt,1988,,,8.97
+California,Imperial,1988,,,18.44
+California,Inyo,1988,,-0.32,
+California,Kern,1988,,1.03,
+California,Kings,1988,,,19.58
+California,Lake,1988,40.63,,
+California,Lassen,1988,37.55,,
+California,Los Angeles,1988,13.07,,
+California,Madera,1988,42.97,,
+California,Marin,1988,,5.92,
+California,Mariposa,1988,,19.77,
+California,Mendocino,1988,,15.18,
+California,Merced,1988,,19.81,
+California,Modoc,1988,15.82,,
+California,Mono,1988,,,4.09
+California,Monterey,1988,29.64,,
+California,Napa,1988,,,15.77
+California,Nevada,1988,29.72,,
+California,Orange,1988,16.68,,
+California,Placer,1988,,22.68,
+California,Plumas,1988,,-4.8,
+California,Riverside,1988,,6.38,
+California,Sacramento,1988,,3.48,
+California,San Benito,1988,,5.27,
+California,San Bernardino,1988,43.8,,
+California,San Diego,1988,,,14.27
+California,San Francisco,1988,,,8.36
+California,San Joaquin,1988,,,15.39
+California,San Luis Obispo,1988,,,7.73
+California,San Mateo,1988,33.81,,
+California,Santa Barbara,1988,,,15.63
+California,Santa Clara,1988,,12.16,
+California,Santa Cruz,1988,38.43,,
+California,Shasta,1988,,-4.55,
+California,Sierra,1988,,9.59,
+California,Siskiyou,1988,,,10.93
+California,Solano,1988,,6.44,
+California,Sonoma,1988,,9.13,
+California,Stanislaus,1988,43.55,,
+California,Sutter,1988,,,16.42
+California,Tehama,1988,31.93,,
+California,Trinity,1988,,,10.33
+California,Tulare,1988,22.15,,
+California,Tuolumne,1988,13.43,,
+California,Ventura,1988,35.37,,
+California,Yolo,1988,,,18.49
+California,Yuba,1988,17.4,,
+California,Alameda,1989,,,3.41
+California,Alpine,1989,24.17,,
+California,Amador,1989,11.04,,
+California,Butte,1989,,21.71,
+California,Calaveras,1989,,14.77,
+California,Colusa,1989,26.36,,
+California,Contra Costa,1989,10.47,,
+California,Del Norte,1989,,-3.72,
+California,El Dorado,1989,,,13.26
+California,Fresno,1989,,,2.94
+California,Glenn,1989,28.32,,
+California,Humboldt,1989,,,2.29
+California,Imperial,1989,,21.06,
+California,Inyo,1989,43.72,,
+California,Kern,1989,,,7.53
+California,Kings,1989,,21.08,
+California,Lake,1989,39.79,,
+California,Lassen,1989,38.54,,
+California,Los Angeles,1989,27.61,,
+California,Madera,1989,,13.16,
+California,Marin,1989,,,4.85
+California,Mariposa,1989,,14.76,
+California,Mendocino,1989,42.31,,
+California,Merced,1989,22.11,,
+California,Modoc,1989,,,3.92
+California,Mono,1989,,21.2,
+California,Monterey,1989,,,17.52
+California,Napa,1989,15.25,,
+California,Nevada,1989,,14.66,
+California,Orange,1989,,0.72,
+California,Placer,1989,,11.75,
+California,Plumas,1989,,,13.12
+California,Riverside,1989,,,5.44
+California,Sacramento,1989,,3.21,
+California,San Benito,1989,,7.0,
+California,San Bernardino,1989,34.15,,
+California,San Diego,1989,43.77,,
+California,San Francisco,1989,,0.23,
+California,San Joaquin,1989,44.8,,
+California,San Luis Obispo,1989,,,9.98
+California,San Mateo,1989,36.01,,
+California,Santa Barbara,1989,35.82,,
+California,Santa Clara,1989,,,14.72
+California,Santa Cruz,1989,,,19.81
+California,Shasta,1989,,,13.45
+California,Sierra,1989,,,19.63
+California,Siskiyou,1989,,,13.37
+California,Solano,1989,,10.59,
+California,Sonoma,1989,13.1,,
+California,Stanislaus,1989,13.78,,
+California,Sutter,1989,,,17.7
+California,Tehama,1989,26.16,,
+California,Trinity,1989,,19.35,
+California,Tulare,1989,29.23,,
+California,Tuolumne,1989,,10.26,
+California,Ventura,1989,,9.72,
+California,Yolo,1989,,4.12,
+California,Yuba,1989,40.32,,
+California,Alameda,1990,18.07,,
+California,Alpine,1990,,,3.28
+California,Amador,1990,27.86,,
+California,Butte,1990,,,4.79
+California,Calaveras,1990,11.1,,
+California,Colusa,1990,35.3,,
+California,Contra Costa,1990,,,10.27
+California,Del Norte,1990,,,1.3
+California,El Dorado,1990,,19.87,
+California,Fresno,1990,43.75,,
+California,Glenn,1990,,15.73,
+California,Humboldt,1990,,23.17,
+California,Imperial,1990,24.48,,
+California,Inyo,1990,41.48,,
+California,Kern,1990,,,12.02
+California,Kings,1990,11.73,,
+California,Lake,1990,,,19.72
+California,Lassen,1990,,10.55,
+California,Los Angeles,1990,29.0,,
+California,Madera,1990,,-4.62,
+California,Marin,1990,32.9,,
+California,Mariposa,1990,17.19,,
+California,Mendocino,1990,18.55,,
+California,Merced,1990,,-0.38,
+California,Modoc,1990,30.2,,
+California,Mono,1990,36.21,,
+California,Monterey,1990,19.1,,
+California,Napa,1990,21.54,,
+California,Nevada,1990,,,12.46
+California,Orange,1990,,20.9,
+California,Placer,1990,23.16,,
+California,Plumas,1990,27.39,,
+California,Riverside,1990,,8.78,
+California,Sacramento,1990,33.29,,
+California,San Benito,1990,12.05,,
+California,San Bernardino,1990,,4.12,
+California,San Diego,1990,,,14.72
+California,San Francisco,1990,,,4.33
+California,San Joaquin,1990,,,12.34
+California,San Luis Obispo,1990,13.4,,
+California,San Mateo,1990,37.01,,
+California,Santa Barbara,1990,14.96,,
+California,Santa Clara,1990,,13.21,
+California,Santa Cruz,1990,,,10.77
+California,Shasta,1990,,,5.22
+California,Sierra,1990,27.35,,
+California,Siskiyou,1990,,,18.96
+California,Solano,1990,,,12.88
+California,Sonoma,1990,,,18.68
+California,Stanislaus,1990,35.78,,
+California,Sutter,1990,,-2.87,
+California,Tehama,1990,35.32,,
+California,Trinity,1990,,,8.69
+California,Tulare,1990,37.5,,
+California,Tuolumne,1990,23.97,,
+California,Ventura,1990,,,4.13
+California,Yolo,1990,,20.47,
+California,Yuba,1990,,9.17,
+California,Alameda,1991,,16.94,
+California,Alpine,1991,,,2.09
+California,Amador,1991,,-2.66,
+California,Butte,1991,,22.19,
+California,Calaveras,1991,,,17.69
+California,Colusa,1991,,,17.83
+California,Contra Costa,1991,37.39,,
+California,Del Norte,1991,,,13.87
+California,El Dorado,1991,,,3.03
+California,Fresno,1991,,11.11,
+California,Glenn,1991,,,7.36
+California,Humboldt,1991,,,0.94
+California,Imperial,1991,,,16.39
+California,Inyo,1991,,-3.53,
+California,Kern,1991,,,14.97
+California,Kings,1991,,15.47,
+California,Lake,1991,,13.93,
+California,Lassen,1991,23.41,,
+California,Los Angeles,1991,21.82,,
+California,Madera,1991,,,13.47
+California,Marin,1991,,,17.39
+California,Mariposa,1991,25.58,,
+California,Mendocino,1991,,21.45,
+California,Merced,1991,,4.21,
+California,Modoc,1991,31.71,,
+California,Mono,1991,,,6.61
+California,Monterey,1991,30.84,,
+California,Napa,1991,,,10.99
+California,Nevada,1991,,,5.67
+California,Orange,1991,,,19.81
+California,Placer,1991,,-2.9,
+California,Plumas,1991,,6.16,
+California,Riverside,1991,,2.76,
+California,Sacramento,1991,,,14.45
+California,San Benito,1991,,,2.97
+California,San Bernardino,1991,,12.47,
+California,San Diego,1991,,22.38,
+California,San Francisco,1991,,4.42,
+California,San Joaquin,1991,,24.33,
+California,San Luis Obispo,1991,,-2.66,
+California,San Mateo,1991,,9.93,
+California,Santa Barbara,1991,23.65,,
+California,Santa Clara,1991,,8.18,
+California,Santa Cruz,1991,,,6.0
+California,Shasta,1991,35.63,,
+California,Sierra,1991,,,0.23
+California,Siskiyou,1991,,,8.23
+California,Solano,1991,,,10.21
+California,Sonoma,1991,,20.71,
+California,Stanislaus,1991,28.34,,
+California,Sutter,1991,,4.64,
+California,Tehama,1991,,-4.41,
+California,Trinity,1991,,,2.7
+California,Tulare,1991,,,13.4
+California,Tuolumne,1991,38.94,,
+California,Ventura,1991,,,0.78
+California,Yolo,1991,,9.81,
+California,Yuba,1991,,,9.87
+California,Alameda,1992,,20.52,
+California,Alpine,1992,,,3.51
+California,Amador,1992,,9.52,
+California,Butte,1992,,19.0,
+California,Calaveras,1992,,,4.92
+California,Colusa,1992,26.99,,
+California,Contra Costa,1992,29.62,,
+California,Del Norte,1992,34.43,,
+California,El Dorado,1992,14.36,,
+California,Fresno,1992,,20.52,
+California,Glenn,1992,,,8.56
+California,Humboldt,1992,,,13.31
+California,Imperial,1992,,20.86,
+California,Inyo,1992,,23.17,
+California,Kern,1992,,,2.28
+California,Kings,1992,,,3.19
+California,Lake,1992,,,5.61
+California,Lassen,1992,,0.76,
+California,Los Angeles,1992,34.48,,
+California,Madera,1992,13.91,,
+California,Marin,1992,,,13.62
+California,Mariposa,1992,,,3.87
+California,Mendocino,1992,,,3.39
+California,Merced,1992,36.05,,
+California,Modoc,1992,44.62,,
+California,Mono,1992,34.66,,
+California,Monterey,1992,44.42,,
+California,Napa,1992,24.53,,
+California,Nevada,1992,,19.34,
+California,Orange,1992,,,14.84
+California,Placer,1992,35.33,,
+California,Plumas,1992,25.58,,
+California,Riverside,1992,,15.24,
+California,Sacramento,1992,,,8.43
+California,San Benito,1992,,12.15,
+California,San Bernardino,1992,31.74,,
+California,San Diego,1992,26.89,,
+California,San Francisco,1992,,24.19,
+California,San Joaquin,1992,,,1.39
+California,San Luis Obispo,1992,15.59,,
+California,San Mateo,1992,,0.88,
+California,Santa Barbara,1992,,24.27,
+California,Santa Clara,1992,20.57,,
+California,Santa Cruz,1992,22.36,,
+California,Shasta,1992,,,14.13
+California,Sierra,1992,,,11.64
+California,Siskiyou,1992,,,11.57
+California,Solano,1992,,,13.97
+California,Sonoma,1992,,24.73,
+California,Stanislaus,1992,,,0.87
+California,Sutter,1992,,-3.79,
+California,Tehama,1992,,,2.94
+California,Trinity,1992,24.93,,
+California,Tulare,1992,11.98,,
+California,Tuolumne,1992,,4.09,
+California,Ventura,1992,38.73,,
+California,Yolo,1992,,,2.63
+California,Yuba,1992,17.45,,
+California,Alameda,1993,42.35,,
+California,Alpine,1993,,,6.15
+California,Amador,1993,34.62,,
+California,Butte,1993,,,13.3
+California,Calaveras,1993,29.87,,
+California,Colusa,1993,,,11.94
+California,Contra Costa,1993,,,7.79
+California,Del Norte,1993,,7.07,
+California,El Dorado,1993,,-4.68,
+California,Fresno,1993,26.63,,
+California,Glenn,1993,44.96,,
+California,Humboldt,1993,,21.26,
+California,Imperial,1993,,,4.5
+California,Inyo,1993,,9.94,
+California,Kern,1993,,,1.83
+California,Kings,1993,,24.14,
+California,Lake,1993,,,4.51
+California,Lassen,1993,36.98,,
+California,Los Angeles,1993,,20.21,
+California,Madera,1993,,-0.76,
+California,Marin,1993,,-3.86,
+California,Mariposa,1993,,16.35,
+California,Mendocino,1993,,11.66,
+California,Merced,1993,25.27,,
+California,Modoc,1993,,,15.63
+California,Mono,1993,,19.77,
+California,Monterey,1993,,2.05,
+California,Napa,1993,,1.59,
+California,Nevada,1993,36.2,,
+California,Orange,1993,36.19,,
+California,Placer,1993,,18.7,
+California,Plumas,1993,,23.26,
+California,Riverside,1993,,,15.76
+California,Sacramento,1993,,7.32,
+California,San Benito,1993,,,14.76
+California,San Bernardino,1993,,4.37,
+California,San Diego,1993,,,8.79
+California,San Francisco,1993,,-1.43,
+California,San Joaquin,1993,,,13.9
+California,San Luis Obispo,1993,12.64,,
+California,San Mateo,1993,,24.67,
+California,Santa Barbara,1993,,13.04,
+California,Santa Clara,1993,25.05,,
+California,Santa Cruz,1993,36.93,,
+California,Shasta,1993,,,11.1
+California,Sierra,1993,,,11.81
+California,Siskiyou,1993,39.01,,
+California,Solano,1993,22.21,,
+California,Sonoma,1993,,4.46,
+California,Stanislaus,1993,,,16.59
+California,Sutter,1993,36.2,,
+California,Tehama,1993,,3.41,
+California,Trinity,1993,,,2.61
+California,Tulare,1993,28.41,,
+California,Tuolumne,1993,20.83,,
+California,Ventura,1993,,,13.93
+California,Yolo,1993,20.94,,
+California,Yuba,1993,13.36,,
+California,Alameda,1994,,,16.55
+California,Alpine,1994,,,0.95
+California,Amador,1994,24.92,,
+California,Butte,1994,20.76,,
+California,Calaveras,1994,13.51,,
+California,Colusa,1994,31.35,,
+California,Contra Costa,1994,14.78,,
+California,Del Norte,1994,34.12,,
+California,El Dorado,1994,,22.78,
+California,Fresno,1994,17.09,,
+California,Glenn,1994,,10.74,
+California,Humboldt,1994,32.47,,
+California,Imperial,1994,,,19.28
+California,Inyo,1994,20.66,,
+California,Kern,1994,,11.65,
+California,Kings,1994,,20.4,
+California,Lake,1994,23.67,,
+California,Lassen,1994,,6.42,
+California,Los Angeles,1994,,,7.62
+California,Madera,1994,,5.94,
+California,Marin,1994,30.65,,
+California,Mariposa,1994,,-3.32,
+California,Mendocino,1994,,,3.15
+California,Merced,1994,,-2.44,
+California,Modoc,1994,19.5,,
+California,Mono,1994,,,6.44
+California,Monterey,1994,,,19.92
+California,Napa,1994,17.16,,
+California,Nevada,1994,,,16.87
+California,Orange,1994,,,14.33
+California,Placer,1994,27.73,,
+California,Plumas,1994,,-0.2,
+California,Riverside,1994,,,16.42
+California,Sacramento,1994,,,1.66
+California,San Benito,1994,12.59,,
+California,San Bernardino,1994,,,4.38
+California,San Diego,1994,19.41,,
+California,San Francisco,1994,,,9.33
+California,San Joaquin,1994,,,10.07
+California,San Luis Obispo,1994,,,11.9
+California,San Mateo,1994,36.36,,
+California,Santa Barbara,1994,,,0.97
+California,Santa Clara,1994,40.62,,
+California,Santa Cruz,1994,,,10.33
+California,Shasta,1994,,,9.3
+California,Sierra,1994,,0.92,
+California,Siskiyou,1994,,9.68,
+California,Solano,1994,15.98,,
+California,Sonoma,1994,,,12.28
+California,Stanislaus,1994,41.38,,
+California,Sutter,1994,,,14.48
+California,Tehama,1994,31.11,,
+California,Trinity,1994,,,14.59
+California,Tulare,1994,,,12.81
+California,Tuolumne,1994,,9.79,
+California,Ventura,1994,34.45,,
+California,Yolo,1994,,-1.62,
+California,Yuba,1994,,20.42,
+California,Alameda,1995,,12.11,
+California,Alpine,1995,,-0.49,
+California,Amador,1995,,14.28,
+California,Butte,1995,,8.23,
+California,Calaveras,1995,,21.84,
+California,Colusa,1995,,,14.1
+California,Contra Costa,1995,,,12.63
+California,Del Norte,1995,14.14,,
+California,El Dorado,1995,29.37,,
+California,Fresno,1995,36.31,,
+California,Glenn,1995,,,4.02
+California,Humboldt,1995,,21.16,
+California,Imperial,1995,,,10.44
+California,Inyo,1995,29.17,,
+California,Kern,1995,21.6,,
+California,Kings,1995,,,0.25
+California,Lake,1995,,,8.17
+California,Lassen,1995,,,5.17
+California,Los Angeles,1995,,24.13,
+California,Madera,1995,28.46,,
+California,Marin,1995,,17.49,
+California,Mariposa,1995,32.17,,
+California,Mendocino,1995,,,18.13
+California,Merced,1995,31.07,,
+California,Modoc,1995,,-1.04,
+California,Mono,1995,,,19.57
+California,Monterey,1995,,,17.5
+California,Napa,1995,,,15.31
+California,Nevada,1995,,19.94,
+California,Orange,1995,,14.25,
+California,Placer,1995,,24.54,
+California,Plumas,1995,26.5,,
+California,Riverside,1995,33.07,,
+California,Sacramento,1995,11.23,,
+California,San Benito,1995,38.55,,
+California,San Bernardino,1995,,,5.45
+California,San Diego,1995,,11.23,
+California,San Francisco,1995,41.82,,
+California,San Joaquin,1995,,15.56,
+California,San Luis Obispo,1995,31.98,,
+California,San Mateo,1995,19.39,,
+California,Santa Barbara,1995,,20.64,
+California,Santa Clara,1995,31.71,,
+California,Santa Cruz,1995,24.32,,
+California,Shasta,1995,,9.52,
+California,Sierra,1995,,,19.63
+California,Siskiyou,1995,,,13.17
+California,Solano,1995,,4.06,
+California,Sonoma,1995,,,9.59
+California,Stanislaus,1995,,,2.07
+California,Sutter,1995,,4.28,
+California,Tehama,1995,27.13,,
+California,Trinity,1995,,,11.73
+California,Tulare,1995,30.88,,
+California,Tuolumne,1995,23.77,,
+California,Ventura,1995,31.52,,
+California,Yolo,1995,14.42,,
+California,Yuba,1995,,,8.28
+California,Alameda,1996,40.96,,
+California,Alpine,1996,,20.33,
+California,Amador,1996,,,8.13
+California,Butte,1996,21.64,,
+California,Calaveras,1996,14.52,,
+California,Colusa,1996,14.24,,
+California,Contra Costa,1996,,3.5,
+California,Del Norte,1996,,20.95,
+California,El Dorado,1996,,,9.13
+California,Fresno,1996,,0.23,
+California,Glenn,1996,27.8,,
+California,Humboldt,1996,13.63,,
+California,Imperial,1996,26.58,,
+California,Inyo,1996,12.26,,
+California,Kern,1996,19.73,,
+California,Kings,1996,40.41,,
+California,Lake,1996,,,19.27
+California,Lassen,1996,,,16.72
+California,Los Angeles,1996,,-3.05,
+California,Madera,1996,35.23,,
+California,Marin,1996,,,17.37
+California,Mariposa,1996,,,18.46
+California,Mendocino,1996,,13.24,
+California,Merced,1996,,2.27,
+California,Modoc,1996,42.18,,
+California,Mono,1996,,,15.94
+California,Monterey,1996,,,7.6
+California,Napa,1996,,22.92,
+California,Nevada,1996,,9.48,
+California,Orange,1996,,,16.8
+California,Placer,1996,,13.57,
+California,Plumas,1996,,10.54,
+California,Riverside,1996,,,7.76
+California,Sacramento,1996,43.01,,
+California,San Benito,1996,,16.45,
+California,San Bernardino,1996,,10.44,
+California,San Diego,1996,,16.35,
+California,San Francisco,1996,36.42,,
+California,San Joaquin,1996,37.2,,
+California,San Luis Obispo,1996,15.67,,
+California,San Mateo,1996,32.13,,
+California,Santa Barbara,1996,,,1.18
+California,Santa Clara,1996,,12.39,
+California,Santa Cruz,1996,,6.65,
+California,Shasta,1996,,,2.36
+California,Sierra,1996,,,10.63
+California,Siskiyou,1996,,14.68,
+California,Solano,1996,,,5.13
+California,Sonoma,1996,17.56,,
+California,Stanislaus,1996,29.08,,
+California,Sutter,1996,,,14.91
+California,Tehama,1996,29.51,,
+California,Trinity,1996,,,4.95
+California,Tulare,1996,,,11.38
+California,Tuolumne,1996,,,9.81
+California,Ventura,1996,,2.58,
+California,Yolo,1996,14.65,,
+California,Yuba,1996,,2.33,
+California,Alameda,1997,43.92,,
+California,Alpine,1997,,,19.38
+California,Amador,1997,20.92,,
+California,Butte,1997,,9.83,
+California,Calaveras,1997,,,15.79
+California,Colusa,1997,15.5,,
+California,Contra Costa,1997,,,19.56
+California,Del Norte,1997,,20.9,
+California,El Dorado,1997,,,17.22
+California,Fresno,1997,,2.88,
+California,Glenn,1997,44.97,,
+California,Humboldt,1997,,12.48,
+California,Imperial,1997,,,3.04
+California,Inyo,1997,,,14.26
+California,Kern,1997,,,3.94
+California,Kings,1997,,,4.98
+California,Lake,1997,,13.72,
+California,Lassen,1997,,,19.04
+California,Los Angeles,1997,,,5.45
+California,Madera,1997,,,19.2
+California,Marin,1997,,14.52,
+California,Mariposa,1997,,19.02,
+California,Mendocino,1997,,,13.18
+California,Merced,1997,,17.12,
+California,Modoc,1997,,7.1,
+California,Mono,1997,,2.56,
+California,Monterey,1997,,23.34,
+California,Napa,1997,,,14.01
+California,Nevada,1997,,,11.29
+California,Orange,1997,,,14.19
+California,Placer,1997,,,10.18
+California,Plumas,1997,29.31,,
+California,Riverside,1997,,0.81,
+California,Sacramento,1997,,,3.81
+California,San Benito,1997,39.12,,
+California,San Bernardino,1997,39.86,,
+California,San Diego,1997,,,1.78
+California,San Francisco,1997,23.24,,
+California,San Joaquin,1997,,,15.92
+California,San Luis Obispo,1997,,22.86,
+California,San Mateo,1997,,2.93,
+California,Santa Barbara,1997,,,7.47
+California,Santa Clara,1997,11.86,,
+California,Santa Cruz,1997,,,10.97
+California,Shasta,1997,,17.82,
+California,Sierra,1997,10.87,,
+California,Siskiyou,1997,,22.36,
+California,Solano,1997,41.37,,
+California,Sonoma,1997,,,12.39
+California,Stanislaus,1997,13.06,,
+California,Sutter,1997,18.79,,
+California,Tehama,1997,44.79,,
+California,Trinity,1997,,,1.78
+California,Tulare,1997,40.63,,
+California,Tuolumne,1997,,18.07,
+California,Ventura,1997,,,11.04
+California,Yolo,1997,,,2.78
+California,Yuba,1997,21.31,,
+California,Alameda,1998,24.58,,
+California,Alpine,1998,16.63,,
+California,Amador,1998,42.88,,
+California,Butte,1998,41.67,,
+California,Calaveras,1998,43.29,,
+California,Colusa,1998,,,9.86
+California,Contra Costa,1998,,6.1,
+California,Del Norte,1998,32.22,,
+California,El Dorado,1998,,,5.44
+California,Fresno,1998,,4.73,
+California,Glenn,1998,,,13.68
+California,Humboldt,1998,,,9.71
+California,Imperial,1998,20.62,,
+California,Inyo,1998,40.39,,
+California,Kern,1998,,2.76,
+California,Kings,1998,19.39,,
+California,Lake,1998,,,12.39
+California,Lassen,1998,10.54,,
+California,Los Angeles,1998,,,5.8
+California,Madera,1998,26.74,,
+California,Marin,1998,,,3.91
+California,Mariposa,1998,,-1.6,
+California,Mendocino,1998,36.69,,
+California,Merced,1998,,1.82,
+California,Modoc,1998,13.25,,
+California,Mono,1998,,5.09,
+California,Monterey,1998,34.28,,
+California,Napa,1998,,8.0,
+California,Nevada,1998,,7.08,
+California,Orange,1998,,,11.29
+California,Placer,1998,,,1.19
+California,Plumas,1998,,19.5,
+California,Riverside,1998,,-1.74,
+California,Sacramento,1998,,9.79,
+California,San Benito,1998,21.77,,
+California,San Bernardino,1998,,2.46,
+California,San Diego,1998,,12.38,
+California,San Francisco,1998,,0.18,
+California,San Joaquin,1998,,-2.98,
+California,San Luis Obispo,1998,,,19.79
+California,San Mateo,1998,,,7.2
+California,Santa Barbara,1998,,6.9,
+California,Santa Clara,1998,,,0.96
+California,Santa Cruz,1998,10.54,,
+California,Shasta,1998,29.09,,
+California,Sierra,1998,31.03,,
+California,Siskiyou,1998,31.95,,
+California,Solano,1998,,12.35,
+California,Sonoma,1998,,13.77,
+California,Stanislaus,1998,,-4.58,
+California,Sutter,1998,,-2.47,
+California,Tehama,1998,,8.16,
+California,Trinity,1998,31.97,,
+California,Tulare,1998,,1.2,
+California,Tuolumne,1998,23.05,,
+California,Ventura,1998,,12.74,
+California,Yolo,1998,35.1,,
+California,Yuba,1998,,-1.27,
+California,Alameda,1999,,,4.77
+California,Alpine,1999,24.47,,
+California,Amador,1999,,-4.73,
+California,Butte,1999,19.63,,
+California,Calaveras,1999,,0.41,
+California,Colusa,1999,,20.44,
+California,Contra Costa,1999,10.58,,
+California,Del Norte,1999,,,15.72
+California,El Dorado,1999,27.91,,
+California,Fresno,1999,,1.33,
+California,Glenn,1999,,23.43,
+California,Humboldt,1999,,-3.69,
+California,Imperial,1999,,,14.45
+California,Inyo,1999,,,18.79
+California,Kern,1999,,,9.41
+California,Kings,1999,,,14.3
+California,Lake,1999,33.43,,
+California,Lassen,1999,13.3,,
+California,Los Angeles,1999,13.31,,
+California,Madera,1999,29.49,,
+California,Marin,1999,,-2.29,
+California,Mariposa,1999,,,17.01
+California,Mendocino,1999,,-1.44,
+California,Merced,1999,,11.76,
+California,Modoc,1999,,,4.25
+California,Mono,1999,,,10.43
+California,Monterey,1999,,,10.5
+California,Napa,1999,39.79,,
+California,Nevada,1999,,-3.49,
+California,Orange,1999,,,3.81
+California,Placer,1999,22.84,,
+California,Plumas,1999,,,8.32
+California,Riverside,1999,44.33,,
+California,Sacramento,1999,30.57,,
+California,San Benito,1999,43.17,,
+California,San Bernardino,1999,,4.4,
+California,San Diego,1999,37.43,,
+California,San Francisco,1999,,,4.16
+California,San Joaquin,1999,,0.45,
+California,San Luis Obispo,1999,,,19.25
+California,San Mateo,1999,,6.02,
+California,Santa Barbara,1999,,,12.78
+California,Santa Clara,1999,,,5.77
+California,Santa Cruz,1999,,,10.41
+California,Shasta,1999,,-4.23,
+California,Sierra,1999,13.42,,
+California,Siskiyou,1999,,-2.02,
+California,Solano,1999,,1.26,
+California,Sonoma,1999,,,19.4
+California,Stanislaus,1999,,2.85,
+California,Sutter,1999,17.95,,
+California,Tehama,1999,44.67,,
+California,Trinity,1999,39.27,,
+California,Tulare,1999,44.62,,
+California,Tuolumne,1999,,,0.08
+California,Ventura,1999,,,6.53
+California,Yolo,1999,,19.04,
+California,Yuba,1999,,,17.28
+California,Alameda,2000,,-1.93,
+California,Alpine,2000,38.71,,
+California,Amador,2000,,21.49,
+California,Butte,2000,,17.87,
+California,Calaveras,2000,12.89,,
+California,Colusa,2000,,17.24,
+California,Contra Costa,2000,17.36,,
+California,Del Norte,2000,,10.94,
+California,El Dorado,2000,,,11.95
+California,Fresno,2000,15.52,,
+California,Glenn,2000,,19.12,
+California,Humboldt,2000,,20.59,
+California,Imperial,2000,,1.3,
+California,Inyo,2000,,,2.62
+California,Kern,2000,,-2.52,
+California,Kings,2000,,5.26,
+California,Lake,2000,42.66,,
+California,Lassen,2000,18.59,,
+California,Los Angeles,2000,,12.51,
+California,Madera,2000,,20.07,
+California,Marin,2000,38.99,,
+California,Mariposa,2000,,-3.06,
+California,Mendocino,2000,,-2.31,
+California,Merced,2000,,23.95,
+California,Modoc,2000,,0.39,
+California,Mono,2000,,,14.84
+California,Monterey,2000,21.4,,
+California,Napa,2000,,,7.97
+California,Nevada,2000,13.67,,
+California,Orange,2000,,,8.57
+California,Placer,2000,,,10.99
+California,Plumas,2000,10.57,,
+California,Riverside,2000,38.39,,
+California,Sacramento,2000,36.83,,
+California,San Benito,2000,41.48,,
+California,San Bernardino,2000,,12.57,
+California,San Diego,2000,,,11.92
+California,San Francisco,2000,10.76,,
+California,San Joaquin,2000,,,10.73
+California,San Luis Obispo,2000,34.12,,
+California,San Mateo,2000,14.61,,
+California,Santa Barbara,2000,,22.1,
+California,Santa Clara,2000,,,5.46
+California,Santa Cruz,2000,,11.71,
+California,Shasta,2000,21.64,,
+California,Sierra,2000,,5.71,
+California,Siskiyou,2000,,,13.22
+California,Solano,2000,,,9.36
+California,Sonoma,2000,40.09,,
+California,Stanislaus,2000,28.42,,
+California,Sutter,2000,22.79,,
+California,Tehama,2000,14.33,,
+California,Trinity,2000,,11.9,
+California,Tulare,2000,,-0.11,
+California,Tuolumne,2000,,,1.54
+California,Ventura,2000,,,5.04
+California,Yolo,2000,,,16.54
+California,Yuba,2000,,12.46,
+California,Alameda,2001,37.95,,
+California,Alpine,2001,14.95,,
+California,Amador,2001,17.46,,
+California,Butte,2001,32.36,,
+California,Calaveras,2001,,11.82,
+California,Colusa,2001,,3.5,
+California,Contra Costa,2001,,,1.13
+California,Del Norte,2001,,,5.01
+California,El Dorado,2001,36.22,,
+California,Fresno,2001,37.63,,
+California,Glenn,2001,27.42,,
+California,Humboldt,2001,,10.44,
+California,Imperial,2001,,,1.14
+California,Inyo,2001,,-4.56,
+California,Kern,2001,,18.67,
+California,Kings,2001,14.72,,
+California,Lake,2001,,22.06,
+California,Lassen,2001,,,15.56
+California,Los Angeles,2001,,,3.24
+California,Madera,2001,,20.51,
+California,Marin,2001,33.77,,
+California,Mariposa,2001,,3.59,
+California,Mendocino,2001,,2.83,
+California,Merced,2001,,15.41,
+California,Modoc,2001,,4.54,
+California,Mono,2001,40.28,,
+California,Monterey,2001,,22.17,
+California,Napa,2001,,,8.17
+California,Nevada,2001,39.22,,
+California,Orange,2001,,,2.36
+California,Placer,2001,,-2.05,
+California,Plumas,2001,11.08,,
+California,Riverside,2001,,23.1,
+California,Sacramento,2001,,5.17,
+California,San Benito,2001,,18.48,
+California,San Bernardino,2001,34.78,,
+California,San Diego,2001,42.96,,
+California,San Francisco,2001,,19.42,
+California,San Joaquin,2001,42.45,,
+California,San Luis Obispo,2001,,-4.39,
+California,San Mateo,2001,,1.49,
+California,Santa Barbara,2001,,13.42,
+California,Santa Clara,2001,,14.59,
+California,Santa Cruz,2001,23.56,,
+California,Shasta,2001,,,2.84
+California,Sierra,2001,38.62,,
+California,Siskiyou,2001,,,2.32
+California,Solano,2001,,,11.29
+California,Sonoma,2001,,15.93,
+California,Stanislaus,2001,15.53,,
+California,Sutter,2001,21.13,,
+California,Tehama,2001,15.3,,
+California,Trinity,2001,,8.25,
+California,Tulare,2001,,,19.57
+California,Tuolumne,2001,,19.21,
+California,Ventura,2001,,,14.77
+California,Yolo,2001,,,16.95
+California,Yuba,2001,,2.66,
+California,Alameda,2002,,,10.51
+California,Alpine,2002,,24.14,
+California,Amador,2002,,,18.92
+California,Butte,2002,,,14.87
+California,Calaveras,2002,,17.48,
+California,Colusa,2002,,,15.6
+California,Contra Costa,2002,,2.62,
+California,Del Norte,2002,27.73,,
+California,El Dorado,2002,,,11.62
+California,Fresno,2002,,,11.86
+California,Glenn,2002,,,3.99
+California,Humboldt,2002,,,15.38
+California,Imperial,2002,,,7.65
+California,Inyo,2002,,2.11,
+California,Kern,2002,,23.23,
+California,Kings,2002,,6.12,
+California,Lake,2002,36.28,,
+California,Lassen,2002,,,0.6
+California,Los Angeles,2002,35.44,,
+California,Madera,2002,,14.78,
+California,Marin,2002,,-0.53,
+California,Mariposa,2002,,,0.46
+California,Mendocino,2002,,,15.05
+California,Merced,2002,26.08,,
+California,Modoc,2002,12.68,,
+California,Mono,2002,12.79,,
+California,Monterey,2002,,,2.38
+California,Napa,2002,,,7.23
+California,Nevada,2002,17.83,,
+California,Orange,2002,,,11.27
+California,Placer,2002,,,8.0
+California,Plumas,2002,,17.29,
+California,Riverside,2002,,,15.94
+California,Sacramento,2002,,,17.4
+California,San Benito,2002,27.21,,
+California,San Bernardino,2002,,19.7,
+California,San Diego,2002,,24.15,
+California,San Francisco,2002,21.96,,
+California,San Joaquin,2002,,7.41,
+California,San Luis Obispo,2002,,22.24,
+California,San Mateo,2002,,20.96,
+California,Santa Barbara,2002,13.96,,
+California,Santa Clara,2002,38.26,,
+California,Santa Cruz,2002,,13.7,
+California,Shasta,2002,30.92,,
+California,Sierra,2002,,,12.7
+California,Siskiyou,2002,39.6,,
+California,Solano,2002,,11.36,
+California,Sonoma,2002,,13.07,
+California,Stanislaus,2002,10.13,,
+California,Sutter,2002,,,0.85
+California,Tehama,2002,,,15.81
+California,Trinity,2002,,19.19,
+California,Tulare,2002,44.9,,
+California,Tuolumne,2002,,7.1,
+California,Ventura,2002,22.55,,
+California,Yolo,2002,,,18.65
+California,Yuba,2002,,,14.36
+California,Alameda,2003,,18.13,
+California,Alpine,2003,,14.55,
+California,Amador,2003,,11.09,
+California,Butte,2003,12.64,,
+California,Calaveras,2003,25.86,,
+California,Colusa,2003,,,13.29
+California,Contra Costa,2003,31.09,,
+California,Del Norte,2003,34.59,,
+California,El Dorado,2003,,,10.06
+California,Fresno,2003,,,12.97
+California,Glenn,2003,,4.75,
+California,Humboldt,2003,44.89,,
+California,Imperial,2003,,,13.25
+California,Inyo,2003,,,13.57
+California,Kern,2003,,8.38,
+California,Kings,2003,,,5.82
+California,Lake,2003,,,12.8
+California,Lassen,2003,,,13.35
+California,Los Angeles,2003,,,13.44
+California,Madera,2003,13.22,,
+California,Marin,2003,,,17.24
+California,Mariposa,2003,,,9.86
+California,Mendocino,2003,30.76,,
+California,Merced,2003,,16.15,
+California,Modoc,2003,14.01,,
+California,Mono,2003,,,19.14
+California,Monterey,2003,28.16,,
+California,Napa,2003,,,15.89
+California,Nevada,2003,,17.26,
+California,Orange,2003,,17.03,
+California,Placer,2003,39.82,,
+California,Plumas,2003,21.19,,
+California,Riverside,2003,,,8.29
+California,Sacramento,2003,44.53,,
+California,San Benito,2003,,-4.29,
+California,San Bernardino,2003,36.75,,
+California,San Diego,2003,27.02,,
+California,San Francisco,2003,,-2.49,
+California,San Joaquin,2003,,,12.72
+California,San Luis Obispo,2003,,,4.45
+California,San Mateo,2003,,,12.24
+California,Santa Barbara,2003,,6.61,
+California,Santa Clara,2003,,,16.25
+California,Santa Cruz,2003,30.17,,
+California,Shasta,2003,,,19.8
+California,Sierra,2003,,17.89,
+California,Siskiyou,2003,,11.05,
+California,Solano,2003,,,8.77
+California,Sonoma,2003,28.02,,
+California,Stanislaus,2003,,22.65,
+California,Sutter,2003,42.56,,
+California,Tehama,2003,,,16.29
+California,Trinity,2003,,,14.52
+California,Tulare,2003,,11.62,
+California,Tuolumne,2003,,18.62,
+California,Ventura,2003,,,7.58
+California,Yolo,2003,35.7,,
+California,Yuba,2003,,,17.59
+California,Alameda,2004,,-1.68,
+California,Alpine,2004,27.77,,
+California,Amador,2004,,,15.96
+California,Butte,2004,,,11.56
+California,Calaveras,2004,,,14.82
+California,Colusa,2004,,20.85,
+California,Contra Costa,2004,33.39,,
+California,Del Norte,2004,,19.55,
+California,El Dorado,2004,,7.27,
+California,Fresno,2004,,19.56,
+California,Glenn,2004,,-3.83,
+California,Humboldt,2004,,23.09,
+California,Imperial,2004,35.84,,
+California,Inyo,2004,,,0.53
+California,Kern,2004,40.61,,
+California,Kings,2004,,11.33,
+California,Lake,2004,,19.02,
+California,Lassen,2004,16.78,,
+California,Los Angeles,2004,,,19.05
+California,Madera,2004,,22.65,
+California,Marin,2004,,,7.37
+California,Mariposa,2004,31.87,,
+California,Mendocino,2004,,,10.76
+California,Merced,2004,24.36,,
+California,Modoc,2004,,17.6,
+California,Mono,2004,,2.38,
+California,Monterey,2004,,22.85,
+California,Napa,2004,,-4.38,
+California,Nevada,2004,,20.99,
+California,Orange,2004,,6.75,
+California,Placer,2004,40.35,,
+California,Plumas,2004,,3.33,
+California,Riverside,2004,33.58,,
+California,Sacramento,2004,25.73,,
+California,San Benito,2004,14.64,,
+California,San Bernardino,2004,18.08,,
+California,San Diego,2004,,2.53,
+California,San Francisco,2004,,15.94,
+California,San Joaquin,2004,28.84,,
+California,San Luis Obispo,2004,,,2.79
+California,San Mateo,2004,34.75,,
+California,Santa Barbara,2004,,,5.52
+California,Santa Clara,2004,,15.52,
+California,Santa Cruz,2004,41.08,,
+California,Shasta,2004,,1.29,
+California,Sierra,2004,,,17.66
+California,Siskiyou,2004,,-3.76,
+California,Solano,2004,,0.5,
+California,Sonoma,2004,,,14.18
+California,Stanislaus,2004,24.38,,
+California,Sutter,2004,,,16.3
+California,Tehama,2004,41.93,,
+California,Trinity,2004,,,18.96
+California,Tulare,2004,,4.67,
+California,Tuolumne,2004,,13.27,
+California,Ventura,2004,20.8,,
+California,Yolo,2004,,0.21,
+California,Yuba,2004,13.77,,
+California,Alameda,2005,40.91,,
+California,Alpine,2005,,6.81,
+California,Amador,2005,16.12,,
+California,Butte,2005,34.84,,
+California,Calaveras,2005,,,5.14
+California,Colusa,2005,,,10.54
+California,Contra Costa,2005,,-2.7,
+California,Del Norte,2005,42.46,,
+California,El Dorado,2005,10.26,,
+California,Fresno,2005,,,8.95
+California,Glenn,2005,,,11.21
+California,Humboldt,2005,,-0.66,
+California,Imperial,2005,14.17,,
+California,Inyo,2005,13.77,,
+California,Kern,2005,,,1.83
+California,Kings,2005,,-1.92,
+California,Lake,2005,14.35,,
+California,Lassen,2005,,,5.72
+California,Los Angeles,2005,36.04,,
+California,Madera,2005,35.29,,
+California,Marin,2005,17.03,,
+California,Mariposa,2005,34.42,,
+California,Mendocino,2005,20.87,,
+California,Merced,2005,,14.36,
+California,Modoc,2005,17.72,,
+California,Mono,2005,,,4.9
+California,Monterey,2005,,,5.95
+California,Napa,2005,16.39,,
+California,Nevada,2005,32.0,,
+California,Orange,2005,,,7.7
+California,Placer,2005,,-3.86,
+California,Plumas,2005,44.71,,
+California,Riverside,2005,23.86,,
+California,Sacramento,2005,,22.74,
+California,San Benito,2005,,11.39,
+California,San Bernardino,2005,39.5,,
+California,San Diego,2005,,,7.65
+California,San Francisco,2005,,7.99,
+California,San Joaquin,2005,,17.36,
+California,San Luis Obispo,2005,,,4.33
+California,San Mateo,2005,,,9.88
+California,Santa Barbara,2005,30.43,,
+California,Santa Clara,2005,,-4.14,
+California,Santa Cruz,2005,11.15,,
+California,Shasta,2005,,,4.26
+California,Sierra,2005,,18.3,
+California,Siskiyou,2005,21.84,,
+California,Solano,2005,17.32,,
+California,Sonoma,2005,12.81,,
+California,Stanislaus,2005,,,5.16
+California,Sutter,2005,,,5.31
+California,Tehama,2005,,,4.59
+California,Trinity,2005,,,8.94
+California,Tulare,2005,10.82,,
+California,Tuolumne,2005,,,11.03
+California,Ventura,2005,,-0.26,
+California,Yolo,2005,,,0.38
+California,Yuba,2005,,3.76,
+California,Alameda,2006,42.81,,
+California,Alpine,2006,,,2.37
+California,Amador,2006,,20.96,
+California,Butte,2006,26.68,,
+California,Calaveras,2006,,13.73,
+California,Colusa,2006,,,10.63
+California,Contra Costa,2006,14.17,,
+California,Del Norte,2006,13.86,,
+California,El Dorado,2006,21.31,,
+California,Fresno,2006,30.43,,
+California,Glenn,2006,,,16.91
+California,Humboldt,2006,,20.71,
+California,Imperial,2006,18.48,,
+California,Inyo,2006,,21.79,
+California,Kern,2006,,22.48,
+California,Kings,2006,,,9.56
+California,Lake,2006,13.29,,
+California,Lassen,2006,,,5.16
+California,Los Angeles,2006,,,17.85
+California,Madera,2006,39.66,,
+California,Marin,2006,,7.45,
+California,Mariposa,2006,,,16.16
+California,Mendocino,2006,27.96,,
+California,Merced,2006,,14.44,
+California,Modoc,2006,,,18.07
+California,Mono,2006,29.99,,
+California,Monterey,2006,16.72,,
+California,Napa,2006,,,5.78
+California,Nevada,2006,,,9.5
+California,Orange,2006,,,1.0
+California,Placer,2006,25.84,,
+California,Plumas,2006,,7.24,
+California,Riverside,2006,,,13.92
+California,Sacramento,2006,,,2.31
+California,San Benito,2006,,,15.31
+California,San Bernardino,2006,28.05,,
+California,San Diego,2006,,,18.63
+California,San Francisco,2006,11.61,,
+California,San Joaquin,2006,,5.84,
+California,San Luis Obispo,2006,,17.55,
+California,San Mateo,2006,,,17.06
+California,Santa Barbara,2006,,,8.61
+California,Santa Clara,2006,,,9.31
+California,Santa Cruz,2006,12.88,,
+California,Shasta,2006,,19.96,
+California,Sierra,2006,21.9,,
+California,Siskiyou,2006,41.69,,
+California,Solano,2006,27.49,,
+California,Sonoma,2006,,6.57,
+California,Stanislaus,2006,,6.7,
+California,Sutter,2006,,23.63,
+California,Tehama,2006,,0.66,
+California,Trinity,2006,13.88,,
+California,Tulare,2006,15.62,,
+California,Tuolumne,2006,10.25,,
+California,Ventura,2006,,,5.18
+California,Yolo,2006,,1.49,
+California,Yuba,2006,,8.1,
+California,Alameda,2007,,5.66,
+California,Alpine,2007,19.04,,
+California,Amador,2007,33.05,,
+California,Butte,2007,10.25,,
+California,Calaveras,2007,,,9.45
+California,Colusa,2007,37.7,,
+California,Contra Costa,2007,,,1.51
+California,Del Norte,2007,16.8,,
+California,El Dorado,2007,,11.7,
+California,Fresno,2007,,,10.42
+California,Glenn,2007,43.28,,
+California,Humboldt,2007,,,4.88
+California,Imperial,2007,31.44,,
+California,Inyo,2007,,,11.21
+California,Kern,2007,,23.89,
+California,Kings,2007,,-2.18,
+California,Lake,2007,40.53,,
+California,Lassen,2007,14.39,,
+California,Los Angeles,2007,,-3.33,
+California,Madera,2007,42.0,,
+California,Marin,2007,30.31,,
+California,Mariposa,2007,,,12.12
+California,Mendocino,2007,17.64,,
+California,Merced,2007,,,2.4
+California,Modoc,2007,,,1.17
+California,Mono,2007,29.48,,
+California,Monterey,2007,,19.01,
+California,Napa,2007,,14.35,
+California,Nevada,2007,,,10.48
+California,Orange,2007,21.77,,
+California,Placer,2007,,7.68,
+California,Plumas,2007,32.55,,
+California,Riverside,2007,30.58,,
+California,Sacramento,2007,,,11.44
+California,San Benito,2007,,,1.82
+California,San Bernardino,2007,39.46,,
+California,San Diego,2007,,19.32,
+California,San Francisco,2007,,,3.97
+California,San Joaquin,2007,,,11.1
+California,San Luis Obispo,2007,,10.41,
+California,San Mateo,2007,,20.55,
+California,Santa Barbara,2007,27.8,,
+California,Santa Clara,2007,,17.94,
+California,Santa Cruz,2007,39.98,,
+California,Shasta,2007,,,16.93
+California,Sierra,2007,16.63,,
+California,Siskiyou,2007,20.58,,
+California,Solano,2007,,8.21,
+California,Sonoma,2007,35.12,,
+California,Stanislaus,2007,,,0.05
+California,Sutter,2007,,10.86,
+California,Tehama,2007,,17.44,
+California,Trinity,2007,15.88,,
+California,Tulare,2007,,,11.63
+California,Tuolumne,2007,27.39,,
+California,Ventura,2007,,,18.4
+California,Yolo,2007,39.97,,
+California,Yuba,2007,,,18.81
+California,Alameda,2008,24.34,,
+California,Alpine,2008,,3.1,
+California,Amador,2008,28.98,,
+California,Butte,2008,,23.41,
+California,Calaveras,2008,29.14,,
+California,Colusa,2008,,8.19,
+California,Contra Costa,2008,,,14.47
+California,Del Norte,2008,,,15.44
+California,El Dorado,2008,,,4.3
+California,Fresno,2008,,,10.66
+California,Glenn,2008,,-2.84,
+California,Humboldt,2008,,10.08,
+California,Imperial,2008,24.72,,
+California,Inyo,2008,,5.92,
+California,Kern,2008,,0.55,
+California,Kings,2008,,21.38,
+California,Lake,2008,,,3.36
+California,Lassen,2008,32.86,,
+California,Los Angeles,2008,,6.47,
+California,Madera,2008,,,11.72
+California,Marin,2008,,23.17,
+California,Mariposa,2008,18.27,,
+California,Mendocino,2008,,,10.22
+California,Merced,2008,10.72,,
+California,Modoc,2008,,10.83,
+California,Mono,2008,,,5.06
+California,Monterey,2008,,8.45,
+California,Napa,2008,,,0.63
+California,Nevada,2008,,,9.76
+California,Orange,2008,,,12.69
+California,Placer,2008,,24.02,
+California,Plumas,2008,33.92,,
+California,Riverside,2008,,,15.13
+California,Sacramento,2008,15.26,,
+California,San Benito,2008,,18.13,
+California,San Bernardino,2008,,,3.32
+California,San Diego,2008,32.73,,
+California,San Francisco,2008,,,8.9
+California,San Joaquin,2008,,5.31,
+California,San Luis Obispo,2008,,,2.91
+California,San Mateo,2008,,,8.02
+California,Santa Barbara,2008,,24.92,
+California,Santa Clara,2008,,,13.1
+California,Santa Cruz,2008,,21.35,
+California,Shasta,2008,,22.38,
+California,Sierra,2008,22.36,,
+California,Siskiyou,2008,40.38,,
+California,Solano,2008,,5.08,
+California,Sonoma,2008,,0.66,
+California,Stanislaus,2008,,22.9,
+California,Sutter,2008,,7.21,
+California,Tehama,2008,25.46,,
+California,Trinity,2008,,4.3,
+California,Tulare,2008,18.92,,
+California,Tuolumne,2008,,,19.42
+California,Ventura,2008,39.66,,
+California,Yolo,2008,,,15.06
+California,Yuba,2008,41.11,,
+California,Alameda,2009,,14.43,
+California,Alpine,2009,,,10.47
+California,Amador,2009,18.72,,
+California,Butte,2009,42.47,,
+California,Calaveras,2009,,6.64,
+California,Colusa,2009,,-0.09,
+California,Contra Costa,2009,,-4.16,
+California,Del Norte,2009,,5.61,
+California,El Dorado,2009,,16.35,
+California,Fresno,2009,,,1.27
+California,Glenn,2009,,14.04,
+California,Humboldt,2009,,,9.27
+California,Imperial,2009,,3.07,
+California,Inyo,2009,,,2.66
+California,Kern,2009,18.68,,
+California,Kings,2009,38.02,,
+California,Lake,2009,,,8.89
+California,Lassen,2009,,7.95,
+California,Los Angeles,2009,,24.6,
+California,Madera,2009,,15.84,
+California,Marin,2009,14.55,,
+California,Mariposa,2009,31.84,,
+California,Mendocino,2009,41.67,,
+California,Merced,2009,23.63,,
+California,Modoc,2009,16.06,,
+California,Mono,2009,18.75,,
+California,Monterey,2009,,,7.1
+California,Napa,2009,34.95,,
+California,Nevada,2009,,,0.5
+California,Orange,2009,26.82,,
+California,Placer,2009,,,19.83
+California,Plumas,2009,,3.01,
+California,Riverside,2009,14.81,,
+California,Sacramento,2009,22.69,,
+California,San Benito,2009,,,10.54
+California,San Bernardino,2009,,5.26,
+California,San Diego,2009,,,1.37
+California,San Francisco,2009,,20.67,
+California,San Joaquin,2009,38.13,,
+California,San Luis Obispo,2009,42.49,,
+California,San Mateo,2009,40.81,,
+California,Santa Barbara,2009,10.07,,
+California,Santa Clara,2009,,16.67,
+California,Santa Cruz,2009,39.52,,
+California,Shasta,2009,,4.65,
+California,Sierra,2009,25.84,,
+California,Siskiyou,2009,19.2,,
+California,Solano,2009,,,3.44
+California,Sonoma,2009,13.7,,
+California,Stanislaus,2009,,,4.39
+California,Sutter,2009,,,17.4
+California,Tehama,2009,,,8.8
+California,Trinity,2009,,6.82,
+California,Tulare,2009,,9.54,
+California,Tuolumne,2009,,,14.8
+California,Ventura,2009,,,15.41
+California,Yolo,2009,,,3.55
+California,Yuba,2009,41.87,,
+California,Alameda,2010,40.8,,
+California,Alpine,2010,,17.91,
+California,Amador,2010,,15.7,
+California,Butte,2010,,,3.93
+California,Calaveras,2010,,6.5,
+California,Colusa,2010,18.49,,
+California,Contra Costa,2010,44.96,,
+California,Del Norte,2010,41.27,,
+California,El Dorado,2010,39.77,,
+California,Fresno,2010,40.53,,
+California,Glenn,2010,,,14.37
+California,Humboldt,2010,,5.29,
+California,Imperial,2010,19.79,,
+California,Inyo,2010,,21.56,
+California,Kern,2010,,-0.72,
+California,Kings,2010,,7.87,
+California,Lake,2010,,,10.08
+California,Lassen,2010,,-1.33,
+California,Los Angeles,2010,,,18.07
+California,Madera,2010,,,10.69
+California,Marin,2010,40.26,,
+California,Mariposa,2010,,24.5,
+California,Mendocino,2010,30.14,,
+California,Merced,2010,,19.93,
+California,Modoc,2010,,,17.67
+California,Mono,2010,38.24,,
+California,Monterey,2010,,,10.2
+California,Napa,2010,,6.83,
+California,Nevada,2010,27.72,,
+California,Orange,2010,30.39,,
+California,Placer,2010,,,2.19
+California,Plumas,2010,24.72,,
+California,Riverside,2010,,20.85,
+California,Sacramento,2010,,13.74,
+California,San Benito,2010,14.59,,
+California,San Bernardino,2010,13.31,,
+California,San Diego,2010,18.67,,
+California,San Francisco,2010,,5.33,
+California,San Joaquin,2010,25.53,,
+California,San Luis Obispo,2010,,,4.93
+California,San Mateo,2010,,6.37,
+California,Santa Barbara,2010,,,1.93
+California,Santa Clara,2010,,,0.68
+California,Santa Cruz,2010,,,15.15
+California,Shasta,2010,29.75,,
+California,Sierra,2010,,22.89,
+California,Siskiyou,2010,22.91,,
+California,Solano,2010,,,3.18
+California,Sonoma,2010,,,19.14
+California,Stanislaus,2010,,4.2,
+California,Sutter,2010,,-1.34,
+California,Tehama,2010,,,16.93
+California,Trinity,2010,,,9.53
+California,Tulare,2010,,8.78,
+California,Tuolumne,2010,20.38,,
+California,Ventura,2010,,,13.95
+California,Yolo,2010,38.69,,
+California,Yuba,2010,22.42,,
+California,Alameda,2011,16.54,,
+California,Alpine,2011,,,19.11
+California,Amador,2011,,,14.21
+California,Butte,2011,,20.93,
+California,Calaveras,2011,19.05,,
+California,Colusa,2011,,,7.8
+California,Contra Costa,2011,,,1.22
+California,Del Norte,2011,13.2,,
+California,El Dorado,2011,,12.54,
+California,Fresno,2011,,8.29,
+California,Glenn,2011,,4.69,
+California,Humboldt,2011,,,15.2
+California,Imperial,2011,,,5.98
+California,Inyo,2011,,,1.35
+California,Kern,2011,,,5.83
+California,Kings,2011,37.77,,
+California,Lake,2011,,23.01,
+California,Lassen,2011,,-2.19,
+California,Los Angeles,2011,,,5.79
+California,Madera,2011,40.02,,
+California,Marin,2011,,,8.26
+California,Mariposa,2011,14.54,,
+California,Mendocino,2011,,3.42,
+California,Merced,2011,,,15.57
+California,Modoc,2011,,3.28,
+California,Mono,2011,,22.5,
+California,Monterey,2011,19.65,,
+California,Napa,2011,42.56,,
+California,Nevada,2011,,,19.43
+California,Orange,2011,,-0.55,
+California,Placer,2011,,,1.34
+California,Plumas,2011,,-4.61,
+California,Riverside,2011,,,4.79
+California,Sacramento,2011,34.53,,
+California,San Benito,2011,,8.33,
+California,San Bernardino,2011,13.18,,
+California,San Diego,2011,,,9.02
+California,San Francisco,2011,,,15.98
+California,San Joaquin,2011,,-4.39,
+California,San Luis Obispo,2011,,23.07,
+California,San Mateo,2011,,-3.19,
+California,Santa Barbara,2011,11.61,,
+California,Santa Clara,2011,,7.78,
+California,Santa Cruz,2011,,-2.59,
+California,Shasta,2011,38.54,,
+California,Sierra,2011,,,14.32
+California,Siskiyou,2011,,11.26,
+California,Solano,2011,,,19.86
+California,Sonoma,2011,14.97,,
+California,Stanislaus,2011,,,9.17
+California,Sutter,2011,,,11.38
+California,Tehama,2011,43.42,,
+California,Trinity,2011,,,15.92
+California,Tulare,2011,35.94,,
+California,Tuolumne,2011,,,19.5
+California,Ventura,2011,44.84,,
+California,Yolo,2011,14.65,,
+California,Yuba,2011,,,11.68
+California,Alameda,2012,,,11.79
+California,Alpine,2012,,5.27,
+California,Amador,2012,43.46,,
+California,Butte,2012,,0.51,
+California,Calaveras,2012,,5.58,
+California,Colusa,2012,,9.15,
+California,Contra Costa,2012,,4.5,
+California,Del Norte,2012,14.6,,
+California,El Dorado,2012,31.56,,
+California,Fresno,2012,,18.94,
+California,Glenn,2012,,11.28,
+California,Humboldt,2012,,,13.39
+California,Imperial,2012,36.31,,
+California,Inyo,2012,,20.4,
+California,Kern,2012,,,17.57
+California,Kings,2012,,1.15,
+California,Lake,2012,34.92,,
+California,Lassen,2012,,-2.29,
+California,Los Angeles,2012,,,16.65
+California,Madera,2012,16.62,,
+California,Marin,2012,18.59,,
+California,Mariposa,2012,,,9.27
+California,Mendocino,2012,,10.98,
+California,Merced,2012,34.44,,
+California,Modoc,2012,,,16.4
+California,Mono,2012,,,13.65
+California,Monterey,2012,16.74,,
+California,Napa,2012,,-1.51,
+California,Nevada,2012,,,12.09
+California,Orange,2012,,,5.29
+California,Placer,2012,21.25,,
+California,Plumas,2012,,,5.67
+California,Riverside,2012,33.98,,
+California,Sacramento,2012,,,10.67
+California,San Benito,2012,,,17.87
+California,San Bernardino,2012,,8.55,
+California,San Diego,2012,,9.52,
+California,San Francisco,2012,,,18.98
+California,San Joaquin,2012,,,1.18
+California,San Luis Obispo,2012,,,11.65
+California,San Mateo,2012,,3.79,
+California,Santa Barbara,2012,17.23,,
+California,Santa Clara,2012,,18.51,
+California,Santa Cruz,2012,35.61,,
+California,Shasta,2012,,9.38,
+California,Sierra,2012,,,8.82
+California,Siskiyou,2012,,3.42,
+California,Solano,2012,,9.05,
+California,Sonoma,2012,,,0.01
+California,Stanislaus,2012,14.44,,
+California,Sutter,2012,,18.49,
+California,Tehama,2012,25.99,,
+California,Trinity,2012,20.6,,
+California,Tulare,2012,,23.52,
+California,Tuolumne,2012,,19.62,
+California,Ventura,2012,,,3.72
+California,Yolo,2012,29.69,,
+California,Yuba,2012,16.98,,
+California,Alameda,2013,,,19.6
+California,Alpine,2013,,,19.18
+California,Amador,2013,,1.35,
+California,Butte,2013,,21.9,
+California,Calaveras,2013,,21.73,
+California,Colusa,2013,,7.0,
+California,Contra Costa,2013,,,13.73
+California,Del Norte,2013,15.41,,
+California,El Dorado,2013,,12.34,
+California,Fresno,2013,,-4.15,
+California,Glenn,2013,,9.54,
+California,Humboldt,2013,,,1.48
+California,Imperial,2013,36.55,,
+California,Inyo,2013,,10.32,
+California,Kern,2013,24.74,,
+California,Kings,2013,,21.14,
+California,Lake,2013,31.38,,
+California,Lassen,2013,31.24,,
+California,Los Angeles,2013,,-2.63,
+California,Madera,2013,,-0.82,
+California,Marin,2013,,21.66,
+California,Mariposa,2013,,,2.01
+California,Mendocino,2013,,,14.84
+California,Merced,2013,,11.91,
+California,Modoc,2013,29.12,,
+California,Mono,2013,44.07,,
+California,Monterey,2013,,12.05,
+California,Napa,2013,15.17,,
+California,Nevada,2013,,20.29,
+California,Orange,2013,43.78,,
+California,Placer,2013,,-0.96,
+California,Plumas,2013,,-2.28,
+California,Riverside,2013,,,15.9
+California,Sacramento,2013,23.61,,
+California,San Benito,2013,,14.35,
+California,San Bernardino,2013,,,17.56
+California,San Diego,2013,,,5.71
+California,San Francisco,2013,,,0.2
+California,San Joaquin,2013,33.88,,
+California,San Luis Obispo,2013,10.99,,
+California,San Mateo,2013,,10.59,
+California,Santa Barbara,2013,25.3,,
+California,Santa Clara,2013,,,6.95
+California,Santa Cruz,2013,,,1.31
+California,Shasta,2013,,22.47,
+California,Sierra,2013,,22.82,
+California,Siskiyou,2013,30.33,,
+California,Solano,2013,41.19,,
+California,Sonoma,2013,38.33,,
+California,Stanislaus,2013,38.25,,
+California,Sutter,2013,,,6.52
+California,Tehama,2013,,11.63,
+California,Trinity,2013,,6.15,
+California,Tulare,2013,34.32,,
+California,Tuolumne,2013,,,13.12
+California,Ventura,2013,,,4.62
+California,Yolo,2013,,15.59,
+California,Yuba,2013,,,9.83
+California,Alameda,2014,26.11,,
+California,Alpine,2014,43.13,,
+California,Amador,2014,,-3.71,
+California,Butte,2014,,,3.25
+California,Calaveras,2014,,,10.29
+California,Colusa,2014,,1.84,
+California,Contra Costa,2014,,,2.67
+California,Del Norte,2014,,,14.87
+California,El Dorado,2014,,,4.18
+California,Fresno,2014,40.05,,
+California,Glenn,2014,,,11.53
+California,Humboldt,2014,16.77,,
+California,Imperial,2014,29.57,,
+California,Inyo,2014,33.93,,
+California,Kern,2014,,7.35,
+California,Kings,2014,,22.84,
+California,Lake,2014,25.78,,
+California,Lassen,2014,,17.11,
+California,Los Angeles,2014,,,18.28
+California,Madera,2014,,23.58,
+California,Marin,2014,11.35,,
+California,Mariposa,2014,10.14,,
+California,Mendocino,2014,,,19.96
+California,Merced,2014,,16.46,
+California,Modoc,2014,33.05,,
+California,Mono,2014,,,0.05
+California,Monterey,2014,,,17.83
+California,Napa,2014,,1.63,
+California,Nevada,2014,,19.04,
+California,Orange,2014,,,5.94
+California,Placer,2014,,,17.13
+California,Plumas,2014,,17.15,
+California,Riverside,2014,,19.65,
+California,Sacramento,2014,28.01,,
+California,San Benito,2014,,0.71,
+California,San Bernardino,2014,37.56,,
+California,San Diego,2014,,5.55,
+California,San Francisco,2014,,,3.7
+California,San Joaquin,2014,,6.02,
+California,San Luis Obispo,2014,,0.74,
+California,San Mateo,2014,,22.42,
+California,Santa Barbara,2014,,10.85,
+California,Santa Clara,2014,22.02,,
+California,Santa Cruz,2014,31.66,,
+California,Shasta,2014,,,19.63
+California,Sierra,2014,,-3.32,
+California,Siskiyou,2014,34.39,,
+California,Solano,2014,,23.89,
+California,Sonoma,2014,43.18,,
+California,Stanislaus,2014,,16.5,
+California,Sutter,2014,,1.18,
+California,Tehama,2014,,,16.69
+California,Trinity,2014,,,0.58
+California,Tulare,2014,,23.45,
+California,Tuolumne,2014,,14.37,
+California,Ventura,2014,,,16.85
+California,Yolo,2014,,24.31,
+California,Yuba,2014,,9.39,
+California,Alameda,2015,28.67,,
+California,Alpine,2015,,,0.5
+California,Amador,2015,,8.1,
+California,Butte,2015,,7.46,
+California,Calaveras,2015,19.6,,
+California,Colusa,2015,,,11.25
+California,Contra Costa,2015,,,11.8
+California,Del Norte,2015,,-4.33,
+California,El Dorado,2015,10.55,,
+California,Fresno,2015,44.03,,
+California,Glenn,2015,41.13,,
+California,Humboldt,2015,12.9,,
+California,Imperial,2015,25.68,,
+California,Inyo,2015,,9.97,
+California,Kern,2015,35.5,,
+California,Kings,2015,11.24,,
+California,Lake,2015,43.06,,
+California,Lassen,2015,,,7.87
+California,Los Angeles,2015,,,10.31
+California,Madera,2015,19.24,,
+California,Marin,2015,37.28,,
+California,Mariposa,2015,,,13.5
+California,Mendocino,2015,,2.29,
+California,Merced,2015,,,8.36
+California,Modoc,2015,,20.33,
+California,Mono,2015,26.65,,
+California,Monterey,2015,22.08,,
+California,Napa,2015,,,15.84
+California,Nevada,2015,,,13.15
+California,Orange,2015,,2.0,
+California,Placer,2015,22.03,,
+California,Plumas,2015,,,15.62
+California,Riverside,2015,,,7.58
+California,Sacramento,2015,42.54,,
+California,San Benito,2015,20.94,,
+California,San Bernardino,2015,,-1.71,
+California,San Diego,2015,14.51,,
+California,San Francisco,2015,,,13.03
+California,San Joaquin,2015,,,3.86
+California,San Luis Obispo,2015,,20.5,
+California,San Mateo,2015,32.07,,
+California,Santa Barbara,2015,32.32,,
+California,Santa Clara,2015,14.13,,
+California,Santa Cruz,2015,11.86,,
+California,Shasta,2015,38.37,,
+California,Sierra,2015,,,5.89
+California,Siskiyou,2015,16.58,,
+California,Solano,2015,,18.43,
+California,Sonoma,2015,,8.73,
+California,Stanislaus,2015,,17.46,
+California,Sutter,2015,10.78,,
+California,Tehama,2015,,5.04,
+California,Trinity,2015,,,16.83
+California,Tulare,2015,,,18.79
+California,Tuolumne,2015,,,12.11
+California,Ventura,2015,23.23,,
+California,Yolo,2015,,,4.27
+California,Yuba,2015,37.73,,
+California,Alameda,2016,13.99,,
+California,Alpine,2016,,,2.78
+California,Amador,2016,,2.55,
+California,Butte,2016,24.74,,
+California,Calaveras,2016,,3.69,
+California,Colusa,2016,34.05,,
+California,Contra Costa,2016,,,11.67
+California,Del Norte,2016,,,9.49
+California,El Dorado,2016,,22.69,
+California,Fresno,2016,,,8.7
+California,Glenn,2016,,,2.97
+California,Humboldt,2016,,11.08,
+California,Imperial,2016,26.5,,
+California,Inyo,2016,15.53,,
+California,Kern,2016,,,19.61
+California,Kings,2016,43.67,,
+California,Lake,2016,,-2.03,
+California,Lassen,2016,21.56,,
+California,Los Angeles,2016,,20.81,
+California,Madera,2016,,,2.37
+California,Marin,2016,,,19.49
+California,Mariposa,2016,30.19,,
+California,Mendocino,2016,,24.86,
+California,Merced,2016,,-4.12,
+California,Modoc,2016,,,0.71
+California,Mono,2016,,18.3,
+California,Monterey,2016,,5.53,
+California,Napa,2016,,18.63,
+California,Nevada,2016,28.96,,
+California,Orange,2016,36.25,,
+California,Placer,2016,,,0.62
+California,Plumas,2016,20.79,,
+California,Riverside,2016,,,7.63
+California,Sacramento,2016,28.56,,
+California,San Benito,2016,,0.53,
+California,San Bernardino,2016,,15.19,
+California,San Diego,2016,,4.22,
+California,San Francisco,2016,28.73,,
+California,San Joaquin,2016,,14.79,
+California,San Luis Obispo,2016,11.4,,
+California,San Mateo,2016,,,11.76
+California,Santa Barbara,2016,,,2.92
+California,Santa Clara,2016,,,9.82
+California,Santa Cruz,2016,,6.91,
+California,Shasta,2016,31.28,,
+California,Sierra,2016,,,3.56
+California,Siskiyou,2016,,6.3,
+California,Solano,2016,,11.1,
+California,Sonoma,2016,15.09,,
+California,Stanislaus,2016,15.02,,
+California,Sutter,2016,,,17.89
+California,Tehama,2016,38.87,,
+California,Trinity,2016,,17.92,
+California,Tulare,2016,,21.68,
+California,Tuolumne,2016,14.79,,
+California,Ventura,2016,39.97,,
+California,Yolo,2016,,,14.7
+California,Yuba,2016,17.84,,
+California,Alameda,2017,,9.93,
+California,Alpine,2017,,10.44,
+California,Amador,2017,18.27,,
+California,Butte,2017,,4.43,
+California,Calaveras,2017,,12.69,
+California,Colusa,2017,,3.71,
+California,Contra Costa,2017,40.33,,
+California,Del Norte,2017,,,7.19
+California,El Dorado,2017,,,2.19
+California,Fresno,2017,,-0.41,
+California,Glenn,2017,,16.58,
+California,Humboldt,2017,31.19,,
+California,Imperial,2017,,,14.85
+California,Inyo,2017,14.65,,
+California,Kern,2017,,-4.0,
+California,Kings,2017,,16.06,
+California,Lake,2017,,0.73,
+California,Lassen,2017,,,2.16
+California,Los Angeles,2017,,22.67,
+California,Madera,2017,,,1.85
+California,Marin,2017,15.32,,
+California,Mariposa,2017,,15.0,
+California,Mendocino,2017,,0.63,
+California,Merced,2017,35.44,,
+California,Modoc,2017,,,12.77
+California,Mono,2017,12.58,,
+California,Monterey,2017,30.3,,
+California,Napa,2017,,10.03,
+California,Nevada,2017,,0.56,
+California,Orange,2017,21.59,,
+California,Placer,2017,21.49,,
+California,Plumas,2017,21.43,,
+California,Riverside,2017,,,11.36
+California,Sacramento,2017,18.45,,
+California,San Benito,2017,,,12.79
+California,San Bernardino,2017,,22.07,
+California,San Diego,2017,,,9.53
+California,San Francisco,2017,,21.36,
+California,San Joaquin,2017,36.14,,
+California,San Luis Obispo,2017,29.92,,
+California,San Mateo,2017,,18.51,
+California,Santa Barbara,2017,,,11.4
+California,Santa Clara,2017,,10.89,
+California,Santa Cruz,2017,,,1.25
+California,Shasta,2017,,13.79,
+California,Sierra,2017,,,2.99
+California,Siskiyou,2017,,7.58,
+California,Solano,2017,38.17,,
+California,Sonoma,2017,,17.95,
+California,Stanislaus,2017,,2.99,
+California,Sutter,2017,19.64,,
+California,Tehama,2017,,,10.45
+California,Trinity,2017,,,11.39
+California,Tulare,2017,33.13,,
+California,Tuolumne,2017,12.15,,
+California,Ventura,2017,,,6.93
+California,Yolo,2017,31.8,,
+California,Yuba,2017,,24.1,
+California,Alameda,2018,,,4.19
+California,Alpine,2018,,,5.02
+California,Amador,2018,,,11.78
+California,Butte,2018,,,7.1
+California,Calaveras,2018,,22.25,
+California,Colusa,2018,,,7.36
+California,Contra Costa,2018,30.26,,
+California,Del Norte,2018,,,0.22
+California,El Dorado,2018,28.4,,
+California,Fresno,2018,,,17.11
+California,Glenn,2018,,,18.66
+California,Humboldt,2018,,0.3,
+California,Imperial,2018,30.51,,
+California,Inyo,2018,22.94,,
+California,Kern,2018,,,14.38
+California,Kings,2018,,,19.22
+California,Lake,2018,22.41,,
+California,Lassen,2018,,,9.47
+California,Los Angeles,2018,35.59,,
+California,Madera,2018,,3.9,
+California,Marin,2018,,2.35,
+California,Mariposa,2018,,22.46,
+California,Mendocino,2018,,-1.05,
+California,Merced,2018,,,10.61
+California,Modoc,2018,37.36,,
+California,Mono,2018,41.85,,
+California,Monterey,2018,12.93,,
+California,Napa,2018,10.6,,
+California,Nevada,2018,41.02,,
+California,Orange,2018,,-2.21,
+California,Placer,2018,,,10.96
+California,Plumas,2018,,,6.52
+California,Riverside,2018,,16.41,
+California,Sacramento,2018,,,4.94
+California,San Benito,2018,,-4.19,
+California,San Bernardino,2018,,3.59,
+California,San Diego,2018,,,9.36
+California,San Francisco,2018,38.58,,
+California,San Joaquin,2018,36.55,,
+California,San Luis Obispo,2018,,,5.01
+California,San Mateo,2018,,,7.27
+California,Santa Barbara,2018,,,12.69
+California,Santa Clara,2018,,,10.48
+California,Santa Cruz,2018,41.77,,
+California,Shasta,2018,,,16.86
+California,Sierra,2018,,20.96,
+California,Siskiyou,2018,36.55,,
+California,Solano,2018,40.24,,
+California,Sonoma,2018,,,1.5
+California,Stanislaus,2018,34.49,,
+California,Sutter,2018,,,17.34
+California,Tehama,2018,,,19.22
+California,Trinity,2018,,12.16,
+California,Tulare,2018,,23.73,
+California,Tuolumne,2018,,-2.28,
+California,Ventura,2018,,24.7,
+California,Yolo,2018,,2.77,
+California,Yuba,2018,14.12,,
+California,Alameda,2019,,,12.54
+California,Alpine,2019,,,8.42
+California,Amador,2019,21.22,,
+California,Butte,2019,15.53,,
+California,Calaveras,2019,10.34,,
+California,Colusa,2019,,-3.51,
+California,Contra Costa,2019,41.54,,
+California,Del Norte,2019,27.06,,
+California,El Dorado,2019,43.55,,
+California,Fresno,2019,26.12,,
+California,Glenn,2019,,15.97,
+California,Humboldt,2019,15.1,,
+California,Imperial,2019,,6.83,
+California,Inyo,2019,33.08,,
+California,Kern,2019,,,14.04
+California,Kings,2019,,22.87,
+California,Lake,2019,,,11.43
+California,Lassen,2019,,14.83,
+California,Los Angeles,2019,33.74,,
+California,Madera,2019,38.96,,
+California,Marin,2019,32.45,,
+California,Mariposa,2019,,,11.3
+California,Mendocino,2019,,-4.81,
+California,Merced,2019,10.21,,
+California,Modoc,2019,17.83,,
+California,Mono,2019,16.15,,
+California,Monterey,2019,,,16.26
+California,Napa,2019,,-2.56,
+California,Nevada,2019,10.09,,
+California,Orange,2019,,0.37,
+California,Placer,2019,,20.91,
+California,Plumas,2019,,-3.95,
+California,Riverside,2019,,16.23,
+California,Sacramento,2019,20.81,,
+California,San Benito,2019,,0.12,
+California,San Bernardino,2019,,23.45,
+California,San Diego,2019,27.6,,
+California,San Francisco,2019,,,10.6
+California,San Joaquin,2019,,4.65,
+California,San Luis Obispo,2019,,,0.27
+California,San Mateo,2019,,,11.98
+California,Santa Barbara,2019,42.85,,
+California,Santa Clara,2019,,-3.85,
+California,Santa Cruz,2019,,,2.72
+California,Shasta,2019,,,10.44
+California,Sierra,2019,18.92,,
+California,Siskiyou,2019,17.99,,
+California,Solano,2019,,,18.46
+California,Sonoma,2019,,,14.35
+California,Stanislaus,2019,,,6.72
+California,Sutter,2019,38.76,,
+California,Tehama,2019,,17.39,
+California,Trinity,2019,,,7.49
+California,Tulare,2019,,12.94,
+California,Tuolumne,2019,27.45,,
+California,Ventura,2019,,4.41,
+California,Yolo,2019,,17.12,
+California,Yuba,2019,,9.6,
+California,Alameda,2020,10.96,,
+California,Alpine,2020,25.91,,
+California,Amador,2020,11.57,,
+California,Butte,2020,40.17,,
+California,Calaveras,2020,,,15.13
+California,Colusa,2020,,,17.51
+California,Contra Costa,2020,,,17.45
+California,Del Norte,2020,,,6.06
+California,El Dorado,2020,10.98,,
+California,Fresno,2020,37.32,,
+California,Glenn,2020,25.65,,
+California,Humboldt,2020,,,7.74
+California,Imperial,2020,,22.26,
+California,Inyo,2020,,,0.59
+California,Kern,2020,,-4.09,
+California,Kings,2020,,,5.66
+California,Lake,2020,,23.79,
+California,Lassen,2020,,24.63,
+California,Los Angeles,2020,35.64,,
+California,Madera,2020,41.82,,
+California,Marin,2020,31.65,,
+California,Mariposa,2020,17.74,,
+California,Mendocino,2020,,,14.75
+California,Merced,2020,,,11.74
+California,Modoc,2020,23.63,,
+California,Mono,2020,36.82,,
+California,Monterey,2020,38.6,,
+California,Napa,2020,,5.19,
+California,Nevada,2020,,0.7,
+California,Orange,2020,,2.48,
+California,Placer,2020,18.95,,
+California,Plumas,2020,,20.52,
+California,Riverside,2020,,,5.79
+California,Sacramento,2020,,5.71,
+California,San Benito,2020,,,3.85
+California,San Bernardino,2020,17.54,,
+California,San Diego,2020,,,11.13
+California,San Francisco,2020,,,1.89
+California,San Joaquin,2020,,0.47,
+California,San Luis Obispo,2020,,21.02,
+California,San Mateo,2020,33.51,,
+California,Santa Barbara,2020,,,14.0
+California,Santa Clara,2020,43.68,,
+California,Santa Cruz,2020,33.73,,
+California,Shasta,2020,16.99,,
+California,Sierra,2020,,13.44,
+California,Siskiyou,2020,23.48,,
+California,Solano,2020,,,12.17
+California,Sonoma,2020,,,14.31
+California,Stanislaus,2020,,,8.75
+California,Sutter,2020,,-4.37,
+California,Tehama,2020,,-1.97,
+California,Trinity,2020,,,2.49
+California,Tulare,2020,,,17.35
+California,Tuolumne,2020,41.77,,
+California,Ventura,2020,,,14.65
+California,Yolo,2020,43.45,,
+California,Yuba,2020,31.35,,
+California,Alameda,2021,,2.07,
+California,Alpine,2021,,,18.26
+California,Amador,2021,19.38,,
+California,Butte,2021,,24.31,
+California,Calaveras,2021,,,17.87
+California,Colusa,2021,,22.93,
+California,Contra Costa,2021,,,15.12
+California,Del Norte,2021,,,16.76
+California,El Dorado,2021,,2.86,
+California,Fresno,2021,34.7,,
+California,Glenn,2021,,,2.14
+California,Humboldt,2021,37.62,,
+California,Imperial,2021,21.69,,
+California,Inyo,2021,34.13,,
+California,Kern,2021,,,15.71
+California,Kings,2021,,,13.13
+California,Lake,2021,,,17.37
+California,Lassen,2021,,,4.96
+California,Los Angeles,2021,26.86,,
+California,Madera,2021,14.93,,
+California,Marin,2021,,,0.01
+California,Mariposa,2021,33.15,,
+California,Mendocino,2021,,,3.02
+California,Merced,2021,,16.04,
+California,Modoc,2021,29.59,,
+California,Mono,2021,,-0.17,
+California,Monterey,2021,14.04,,
+California,Napa,2021,,,2.01
+California,Nevada,2021,,,1.78
+California,Orange,2021,,,19.02
+California,Placer,2021,26.0,,
+California,Plumas,2021,,23.76,
+California,Riverside,2021,,,9.34
+California,Sacramento,2021,27.17,,
+California,San Benito,2021,,15.33,
+California,San Bernardino,2021,,2.41,
+California,San Diego,2021,,,15.81
+California,San Francisco,2021,,,14.5
+California,San Joaquin,2021,21.88,,
+California,San Luis Obispo,2021,,,0.8
+California,San Mateo,2021,22.97,,
+California,Santa Barbara,2021,,23.89,
+California,Santa Clara,2021,,13.94,
+California,Santa Cruz,2021,40.93,,
+California,Shasta,2021,,,8.29
+California,Sierra,2021,,20.05,
+California,Siskiyou,2021,,20.77,
+California,Solano,2021,,,17.17
+California,Sonoma,2021,,-1.93,
+California,Stanislaus,2021,,,17.17
+California,Sutter,2021,18.72,,
+California,Tehama,2021,30.4,,
+California,Trinity,2021,,-2.68,
+California,Tulare,2021,,,1.78
+California,Tuolumne,2021,,4.25,
+California,Ventura,2021,,11.2,
+California,Yolo,2021,,,2.6
+California,Yuba,2021,33.33,,
+California,Alameda,2022,,,5.5
+California,Alpine,2022,35.07,,
+California,Amador,2022,42.16,,
+California,Butte,2022,,,5.26
+California,Calaveras,2022,,-0.22,
+California,Colusa,2022,13.71,,
+California,Contra Costa,2022,27.57,,
+California,Del Norte,2022,20.99,,
+California,El Dorado,2022,41.69,,
+California,Fresno,2022,,-3.62,
+California,Glenn,2022,,,4.98
+California,Humboldt,2022,,,1.32
+California,Imperial,2022,15.64,,
+California,Inyo,2022,,,7.92
+California,Kern,2022,12.9,,
+California,Kings,2022,,,1.43
+California,Lake,2022,,,11.63
+California,Lassen,2022,,19.16,
+California,Los Angeles,2022,29.53,,
+California,Madera,2022,,6.27,
+California,Marin,2022,,,12.29
+California,Mariposa,2022,,-4.71,
+California,Mendocino,2022,,11.37,
+California,Merced,2022,,23.45,
+California,Modoc,2022,,,2.6
+California,Mono,2022,,-4.32,
+California,Monterey,2022,34.0,,
+California,Napa,2022,12.98,,
+California,Nevada,2022,15.96,,
+California,Orange,2022,24.1,,
+California,Placer,2022,20.74,,
+California,Plumas,2022,29.61,,
+California,Riverside,2022,,12.86,
+California,Sacramento,2022,17.14,,
+California,San Benito,2022,20.36,,
+California,San Bernardino,2022,,,5.83
+California,San Diego,2022,,,15.75
+California,San Francisco,2022,,,4.25
+California,San Joaquin,2022,,17.3,
+California,San Luis Obispo,2022,,,9.23
+California,San Mateo,2022,,16.01,
+California,Santa Barbara,2022,,,9.64
+California,Santa Clara,2022,,,12.04
+California,Santa Cruz,2022,16.36,,
+California,Shasta,2022,15.49,,
+California,Sierra,2022,,10.42,
+California,Siskiyou,2022,38.42,,
+California,Solano,2022,,,18.02
+California,Sonoma,2022,,,1.8
+California,Stanislaus,2022,,,10.88
+California,Sutter,2022,,,12.11
+California,Tehama,2022,,15.92,
+California,Trinity,2022,,7.53,
+California,Tulare,2022,,,18.28
+California,Tuolumne,2022,,6.17,
+California,Ventura,2022,12.57,,
+California,Yolo,2022,,8.61,
+California,Yuba,2022,,9.16,
