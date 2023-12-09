@@ -1,0 +1,219 @@
+species,status,County,count
+Hierodula patellifera,introduced,Alameda,1
+Iris oratoria,introduced,Alameda,1
+Iris oratoria,introduced,Butte,16
+Iris oratoria,introduced,Contra Costa,11
+Iris oratoria,introduced,Fresno,11
+Iris oratoria,introduced,Glenn,4
+Iris oratoria,introduced,Imperial,16
+Iris oratoria,introduced,Inyo,4
+Iris oratoria,introduced,Kern,26
+Iris oratoria,introduced,Kings,2
+Iris oratoria,introduced,Los Angeles,76
+Iris oratoria,introduced,Madera,1
+Iris oratoria,introduced,Merced,13
+Iris oratoria,introduced,Orange,19
+Iris oratoria,introduced,Placer,8
+Iris oratoria,introduced,Riverside,100
+Iris oratoria,introduced,Sacramento,20
+Iris oratoria,introduced,San Benito,3
+Iris oratoria,introduced,San Bernardino,45
+Iris oratoria,introduced,San Diego,45
+Iris oratoria,introduced,San Joaquin,6
+Iris oratoria,introduced,San Luis Obispo,7
+Iris oratoria,introduced,San Mateo,1
+Iris oratoria,introduced,Shasta,1
+Iris oratoria,introduced,Solano,25
+Iris oratoria,introduced,Stanislaus,15
+Iris oratoria,introduced,Tehama,1
+Iris oratoria,introduced,Tulare,3
+Iris oratoria,introduced,Ventura,2
+Iris oratoria,introduced,Yolo,9
+Iris oratoria,introduced,Yuba,4
+Litaneutria chaparrali,native,Orange,2
+Litaneutria minor,native,Fresno,1
+Litaneutria minor,native,Imperial,1
+Litaneutria minor,native,Los Angeles,1
+Litaneutria minor,native,San Benito,1
+Litaneutria minor,native,San Bernardino,1
+Litaneutria minor,native,San Diego,1
+Litaneutria minor,native,Santa Barbara,1
+Litaneutria ocularis,native,Alameda,1
+Litaneutria ocularis,native,Butte,1
+Litaneutria ocularis,native,Colusa,1
+Litaneutria ocularis,native,Contra Costa,3
+Litaneutria ocularis,native,Fresno,2
+Litaneutria ocularis,native,Imperial,8
+Litaneutria ocularis,native,Inyo,6
+Litaneutria ocularis,native,Kern,1
+Litaneutria ocularis,native,Kings,1
+Litaneutria ocularis,native,Los Angeles,3
+Litaneutria ocularis,native,Riverside,8
+Litaneutria ocularis,native,San Bernardino,12
+Litaneutria ocularis,native,San Diego,3
+Litaneutria ocularis,native,Tulare,1
+Litaneutria ocularis,native,Ventura,3
+Litaneutria pacifica,native,Alameda,4
+Litaneutria pacifica,native,Contra Costa,3
+Litaneutria pacifica,native,El Dorado,1
+Litaneutria pacifica,native,Fresno,2
+Litaneutria pacifica,native,Imperial,1
+Litaneutria pacifica,native,Inyo,1
+Litaneutria pacifica,native,Kern,4
+Litaneutria pacifica,native,Lake,1
+Litaneutria pacifica,native,Los Angeles,15
+Litaneutria pacifica,native,Marin,1
+Litaneutria pacifica,native,Merced,2
+Litaneutria pacifica,native,Monterey,2
+Litaneutria pacifica,native,Nevada,1
+Litaneutria pacifica,native,Orange,5
+Litaneutria pacifica,native,Riverside,8
+Litaneutria pacifica,native,San Benito,5
+Litaneutria pacifica,native,San Bernardino,6
+Litaneutria pacifica,native,San Diego,22
+Litaneutria pacifica,native,San Luis Obispo,8
+Litaneutria pacifica,native,Santa Barbara,1
+Litaneutria pacifica,native,Santa Clara,3
+Litaneutria pacifica,native,Siskiyou,1
+Litaneutria pacifica,native,Sonoma,1
+Litaneutria pacifica,native,Tehama,2
+Litaneutria pacifica,native,Tuolumne,1
+Litaneutria pacifica,native,Yuba,1
+Litaneutria skinneri,native,Inyo,1
+Litaneutria skinneri,native,Mariposa,1
+Litaneutria skinneri,native,Mono,1
+Litaneutria skinneri,native,Sierra,1
+Mantis religiosa,introduced,Alameda,97
+Mantis religiosa,introduced,Alpine,1
+Mantis religiosa,introduced,Amador,5
+Mantis religiosa,introduced,Butte,16
+Mantis religiosa,introduced,Calaveras,2
+Mantis religiosa,introduced,Colusa,4
+Mantis religiosa,introduced,Contra Costa,111
+Mantis religiosa,introduced,Del Norte,6
+Mantis religiosa,introduced,El Dorado,9
+Mantis religiosa,introduced,Fresno,7
+Mantis religiosa,introduced,Glenn,2
+Mantis religiosa,introduced,Humboldt,88
+Mantis religiosa,introduced,Inyo,7
+Mantis religiosa,introduced,Kern,15
+Mantis religiosa,introduced,Lake,9
+Mantis religiosa,introduced,Lassen,4
+Mantis religiosa,introduced,Los Angeles,54
+Mantis religiosa,introduced,Madera,5
+Mantis religiosa,introduced,Marin,142
+Mantis religiosa,introduced,Mariposa,11
+Mantis religiosa,introduced,Mendocino,35
+Mantis religiosa,introduced,Merced,17
+Mantis religiosa,introduced,Modoc,5
+Mantis religiosa,introduced,Mono,7
+Mantis religiosa,introduced,Monterey,33
+Mantis religiosa,introduced,Napa,13
+Mantis religiosa,introduced,Nevada,1
+Mantis religiosa,introduced,Placer,13
+Mantis religiosa,introduced,Plumas,3
+Mantis religiosa,introduced,Riverside,3
+Mantis religiosa,introduced,Sacramento,53
+Mantis religiosa,introduced,San Benito,25
+Mantis religiosa,introduced,San Bernardino,2
+Mantis religiosa,introduced,San Diego,33
+Mantis religiosa,introduced,San Francisco,53
+Mantis religiosa,introduced,San Joaquin,8
+Mantis religiosa,introduced,San Luis Obispo,64
+Mantis religiosa,introduced,San Mateo,99
+Mantis religiosa,introduced,Santa Barbara,37
+Mantis religiosa,introduced,Santa Clara,143
+Mantis religiosa,introduced,Santa Cruz,37
+Mantis religiosa,introduced,Shasta,10
+Mantis religiosa,introduced,Siskiyou,11
+Mantis religiosa,introduced,Solano,40
+Mantis religiosa,introduced,Sonoma,200
+Mantis religiosa,introduced,Stanislaus,2
+Mantis religiosa,introduced,Sutter,1
+Mantis religiosa,introduced,Tehama,2
+Mantis religiosa,introduced,Trinity,1
+Mantis religiosa,introduced,Tulare,3
+Mantis religiosa,introduced,Tuolumne,10
+Mantis religiosa,introduced,Ventura,23
+Mantis religiosa,introduced,Yolo,28
+Mantis religiosa,introduced,Yuba,3
+Miomantis caffra,introduced,Los Angeles,54
+Miomantis caffra,introduced,San Diego,10
+Miomantis caffra,introduced,San Joaquin,1
+Stagmomantis californica,native,Butte,1
+Stagmomantis californica,native,Colusa,1
+Stagmomantis californica,native,Contra Costa,3
+Stagmomantis californica,native,Inyo,1
+Stagmomantis californica,native,Kern,5
+Stagmomantis californica,native,Kings,1
+Stagmomantis californica,native,Los Angeles,88
+Stagmomantis californica,native,Mendocino,1
+Stagmomantis californica,native,Merced,2
+Stagmomantis californica,native,Nevada,1
+Stagmomantis californica,native,Orange,31
+Stagmomantis californica,native,Riverside,11
+Stagmomantis californica,native,Sacramento,5
+Stagmomantis californica,native,San Bernardino,19
+Stagmomantis californica,native,San Diego,149
+Stagmomantis californica,native,San Joaquin,5
+Stagmomantis californica,native,Santa Barbara,2
+Stagmomantis californica,native,Santa Clara,1
+Stagmomantis californica,native,Sonoma,1
+Stagmomantis californica,native,Stanislaus,3
+Stagmomantis californica,native,Tuolumne,1
+Stagmomantis californica,native,Ventura,4
+Stagmomantis limbata,native,Alameda,9
+Stagmomantis limbata,native,Amador,5
+Stagmomantis limbata,native,Butte,11
+Stagmomantis limbata,native,Calaveras,5
+Stagmomantis limbata,native,Contra Costa,65
+Stagmomantis limbata,native,El Dorado,11
+Stagmomantis limbata,native,Fresno,5
+Stagmomantis limbata,native,Imperial,1
+Stagmomantis limbata,native,Inyo,6
+Stagmomantis limbata,native,Kern,9
+Stagmomantis limbata,native,Lake,4
+Stagmomantis limbata,native,Los Angeles,597
+Stagmomantis limbata,native,Madera,1
+Stagmomantis limbata,native,Mariposa,25
+Stagmomantis limbata,native,Merced,3
+Stagmomantis limbata,native,Mono,1
+Stagmomantis limbata,native,Napa,2
+Stagmomantis limbata,native,Nevada,29
+Stagmomantis limbata,native,Orange,171
+Stagmomantis limbata,native,Placer,24
+Stagmomantis limbata,native,Riverside,40
+Stagmomantis limbata,native,Sacramento,138
+Stagmomantis limbata,native,San Bernardino,55
+Stagmomantis limbata,native,San Diego,214
+Stagmomantis limbata,native,San Joaquin,25
+Stagmomantis limbata,native,San Luis Obispo,3
+Stagmomantis limbata,native,San Mateo,1
+Stagmomantis limbata,native,Santa Barbara,4
+Stagmomantis limbata,native,Santa Clara,59
+Stagmomantis limbata,native,Santa Cruz,1
+Stagmomantis limbata,native,Shasta,4
+Stagmomantis limbata,native,Solano,18
+Stagmomantis limbata,native,Stanislaus,9
+Stagmomantis limbata,native,Sutter,4
+Stagmomantis limbata,native,Tulare,3
+Stagmomantis limbata,native,Tuolumne,10
+Stagmomantis limbata,native,Ventura,61
+Stagmomantis limbata,native,Yolo,75
+Stagmomantis limbata,native,Yuba,5
+Tenodera sinensis,introduced,Alameda,7
+Tenodera sinensis,introduced,Kern,1
+Tenodera sinensis,introduced,Los Angeles,9
+Tenodera sinensis,introduced,Marin,2
+Tenodera sinensis,introduced,Merced,1
+Tenodera sinensis,introduced,Orange,1
+Tenodera sinensis,introduced,San Benito,1
+Tenodera sinensis,introduced,San Diego,4
+Tenodera sinensis,introduced,San Francisco,1
+Tenodera sinensis,introduced,San Mateo,4
+Tenodera sinensis,introduced,Santa Clara,10
+Tenodera sinensis,introduced,Tuolumne,1
+Tenodera sinensis,introduced,Ventura,2
+Thesprotia graminis,native,Del Norte,1
+Yersiniops newboldi,native,Inyo,2
+Yersiniops newboldi,native,Madera,1
